@@ -11,7 +11,7 @@ const E404 = () => {
               <Link legacyBehavior href="/">
                 <a>
                   <img
-                    src="assets/images/logos/logo-big.png"
+                    src="assets/images/logos/Logo Edvisors - black.png"
                     alt="Logo"
                     title="Logo"
                   />
