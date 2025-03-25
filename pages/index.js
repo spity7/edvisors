@@ -139,7 +139,7 @@ const Index3 = () => {
             <h3>Digital Core Services</h3>
           </div>
           <div className="row justify-content-center">
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-2s">
                 <div className="image">
                   <img
@@ -152,7 +152,7 @@ const Index3 = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-4s">
                 <div className="image">
                   <img
@@ -167,7 +167,7 @@ const Index3 = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-6s">
                 <div className="image">
                   <img
@@ -180,7 +180,7 @@ const Index3 = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-8s">
                 <div className="image">
                   <img
@@ -193,7 +193,7 @@ const Index3 = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-8s">
                 <div className="image">
                   <img
@@ -206,7 +206,7 @@ const Index3 = () => {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-6">
+            <div className="col-xl-4 col-lg-4 col-md-4 col-sm-6">
               <div className="service-item-two wow fadeInUp delay-0-8s">
                 <div className="image">
                   <img
