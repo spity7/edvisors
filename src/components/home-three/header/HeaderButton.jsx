@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 function HeaderButton() {
-	return (
-		<div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
-			<div className="aximo-header-wrap">
-				<div className="aximo-social-icon header-social">
+  return (
+    <div className="header-btn header-btn-l1 ms-auto d-none d-xs-inline-flex">
+      <div className="aximo-header-wrap">
+        {/* <div className="aximo-social-icon header-social">
 					<ul>
 						<li>
 							<a href="https://twitter.com/" target="_blank">
@@ -26,14 +26,18 @@ function HeaderButton() {
 							</a>
 						</li>
 					</ul>
-				</div>
-				<Link className="aximo-default-btn pill aximo-header-btn yellow-btn" to="/contact-us">
-					<span className="aximo-label-up">Talk to an expert</span>
-					<span className="aximo-label-up">Talk to an expert</span>
-				</Link>
-			</div>
-		</div>
-	);
+				</div> */}
+        <Link
+          className="aximo-default-btn pill aximo-header-btn yellow-btn"
+          to="https://wa.me/13138881754"
+          target="_blank"
+        >
+          <span className="aximo-label-up">Talk to an expert</span>
+          <span className="aximo-label-up">Talk to an expert</span>
+        </Link>
+      </div>
+    </div>
+  );
 }
 
 export default HeaderButton;
