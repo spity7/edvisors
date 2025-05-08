@@ -17,7 +17,7 @@ function ContactUs() {
 			<ContactForm />
 			<ContactInfo />
 			<GoogleMap location={location} />
-			<TwoColumnFaq />
+			{/* <TwoColumnFaq /> */}
 		</>
 	);
 }

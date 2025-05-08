@@ -98,23 +98,33 @@ function Header() {
                   </DropdownItem>
                 </Dropdown>
               </NavItem> */}
-              <NavItem dropdown title="Programs">
+              <NavItem dropdown title="Services">
                 <Dropdown>
-                  <DropdownItem url="">Robotics & AI Curriculum</DropdownItem>
-                  <DropdownItem url="">
-                    Skills & Competences Curriculum
+                  <DropdownItem url="service/ed-tech-solutions">
+                    EdTech Solutions
                   </DropdownItem>
-                  <DropdownItem url="">
-                    ESL English Language Curriculum
+                  <DropdownItem url="service/ai-solutions">
+                    AI Solutions
+                  </DropdownItem>
+                  <DropdownItem url="service/educational-consulting">
+                    Educational Consulting
+                  </DropdownItem>
+                  <DropdownItem url="service/competitions-webinars">
+                    Competitions & Webinars
                   </DropdownItem>
                 </Dropdown>
               </NavItem>
-              <NavItem dropdown title="Services">
+              <NavItem dropdown title="Programs">
                 <Dropdown>
-                  <DropdownItem url="">EdTech Solutions</DropdownItem>
-                  <DropdownItem url="">AI Solutions</DropdownItem>
-                  <DropdownItem url="">Educational Consulting</DropdownItem>
-                  <DropdownItem url="">Competitions & Webinars</DropdownItem>
+                  <DropdownItem url="program/robotics-ai-curriculum">
+                    Robotics & AI Curriculum
+                  </DropdownItem>
+                  <DropdownItem url="program/skills-Competences-Curriculum">
+                    Skills & Competences Curriculum
+                  </DropdownItem>
+                  <DropdownItem url="program/esl-english-language-curriculum">
+                    ESL English Language Curriculum
+                  </DropdownItem>
                 </Dropdown>
               </NavItem>
               <NavItem url="contact-us">Contact Us</NavItem>

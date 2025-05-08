@@ -160,45 +160,46 @@ export const menuItemsData = [
   // 	],
   // },
   {
-    title: "Programs",
-    url: "",
-    submenu: [
-      {
-        title: "Robotics & AI Curriculum",
-        url: "",
-      },
-      {
-        title: "Skills & Competences Curriculum",
-        url: "",
-      },
-      {
-        title: "ESL English Lang Curriculum",
-        url: "",
-      },
-    ],
-  },
-  {
     title: "Services",
     url: "",
     submenu: [
       {
         title: "EdTech Solutions",
-        url: "",
+        url: "service/ed-tech-solutions",
       },
       {
         title: "AI Solutions",
-        url: "",
+        url: "service/ai-solutions",
       },
       {
         title: "Educational Consulting",
-        url: "",
+        url: "service/educational-consulting",
       },
       {
         title: "Competitions & Webinars",
-        url: "",
+        url: "service/competitions-webinars",
       },
     ],
   },
+  {
+    title: "Programs",
+    url: "",
+    submenu: [
+      {
+        title: "Robotics & AI Curriculum",
+        url: "program/robotics-ai-curriculum",
+      },
+      {
+        title: "Skills & Competences Curriculum",
+        url: "program/skills-Competences-Curriculum",
+      },
+      {
+        title: "ESL English Lang Curriculum",
+        url: "program/esl-english-language-curriculum",
+      },
+    ],
+  },
+
   {
     title: "Contact Us",
     url: "contact-us",

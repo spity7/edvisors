@@ -2,10 +2,13 @@ import Star2Img from "../../../assets/images/v1/star2.png";
 import StoryContent from "./StoryContent";
 import StoryPhotos from "./StoryPhotos";
 function Story() {
-	return (
-		<div className="section aximo-section-padding6">
-			<div className="container">
-				<div className="aximo-section-title center title-description">
+  return (
+    <div
+      className="section aximo-section-padding6"
+      style={{ paddingBottom: 10 }}
+    >
+      <div className="container">
+        {/* <div className="aximo-section-title center title-description">
 					<h2>
 						<span className="aximo-title-animation">
 							We think our story is
@@ -20,16 +23,16 @@ function Story() {
 						creative and tech-savvy solutions to help businesses succeed in the ever-changing digital
 						landscape.
 					</p>
-				</div>
+				</div> */}
 
-				<StoryPhotos />
+        {/* <StoryPhotos /> */}
 
-				<div className="aximo-story-content">
-					<StoryContent />
-				</div>
-			</div>
-		</div>
-	);
+        <div className="aximo-story-content">
+          <StoryContent />
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export default Story;

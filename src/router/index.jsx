@@ -35,6 +35,13 @@ import SingleTeam from "../page/team/SingleTeam.jsx";
 import CommingSoon from "../page/utility/CommingSoon.jsx";
 import Faq from "../page/utility/Faq.jsx";
 import TestimonialPage from "../page/utility/Testimonial.jsx";
+import EdTechSolutions from "../page/new/service/EdTechSolutions.jsx";
+import AISolutions from "../page/new/service/AISolutions.jsx";
+import EducationalConsulting from "../page/new/service/EducationalConsulting.jsx";
+import CompetitionsWebinars from "../page/new/service/CompetitionsWebinars.jsx";
+import RoboticsAICurriculum from "../page/new/program/RoboticsAICurriculum.jsx";
+import SkillsCompetencesCurriculum from "../page/new/program/SkillsCompetencesCurriculum.jsx";
+import ESLEnglishLanguageCurriculum from "../page/new/program/ESLEnglishLanguageCurriculum.jsx";
 
 export const router = createBrowserRouter([
   {
@@ -114,6 +121,34 @@ export const router = createBrowserRouter([
           {
             path: "*",
             element: <ErrorPage />,
+          },
+          {
+            path: "/service/ed-tech-solutions",
+            element: <EdTechSolutions />,
+          },
+          {
+            path: "/service/ai-solutions",
+            element: <AISolutions />,
+          },
+          {
+            path: "/service/educational-consulting",
+            element: <EducationalConsulting />,
+          },
+          {
+            path: "/service/competitions-webinars",
+            element: <CompetitionsWebinars />,
+          },
+          {
+            path: "/program/robotics-ai-curriculum",
+            element: <RoboticsAICurriculum />,
+          },
+          {
+            path: "/program/skills-Competences-Curriculum",
+            element: <SkillsCompetencesCurriculum />,
+          },
+          {
+            path: "/program/esl-english-language-curriculum",
+            element: <ESLEnglishLanguageCurriculum />,
           },
         ],
       },
