@@ -40,9 +40,9 @@ function AboutUs() {
   return (
     <>
       <About />
+      <AutoSlider />
       <Story />
       <AboutOne />
-      <AutoSlider />
     </>
   );
 }

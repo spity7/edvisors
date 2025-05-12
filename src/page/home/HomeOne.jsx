@@ -15,6 +15,8 @@ import Team2Img from "../../assets/images/team/team2.png";
 import Team3Img from "../../assets/images/team/team3.png";
 import Team4Img from "../../assets/images/team/team4.png";
 import Counter from "../../components/new/home/counter";
+import Faq from "../../components/home-five/faq";
+import Contact from "../../components/home-three/contact";
 
 const servicesData = [
   {
@@ -85,6 +87,8 @@ function HomeOne() {
       <Counter />
       <Services services={servicesData} />
       <Services2 />
+      <Faq />
+      <Contact />
       {/* <About /> */}
       {/* <Projects /> */}
       {/* <WhyChooseUs /> */}

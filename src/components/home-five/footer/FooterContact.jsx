@@ -2,12 +2,12 @@ function FooterContact() {
   return (
     <div className="aximo-footer-menu m-0">
       <div className="aximo-footer-title">
-        <p className="fs-2">Contact us</p>
+        <p className="fs-3">Contact us</p>
       </div>
       <div className="aximo-contact-info2 info3">
         <ul>
           <li>
-            <a href="tel:+088-234-6849">
+            <a href="https://wa.me/13138881754" target="_blank">
               <i className="icon-phone"></i>
               +1 (313) 888-1754
             </a>

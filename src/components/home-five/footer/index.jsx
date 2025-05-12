@@ -11,31 +11,37 @@ function Footer() {
           style={{ paddingTop: 30, paddingBottom: 30 }}
         >
           <div className="row">
-            <div className="col-xl-8 col-lg-12">
+            <div className="col-xl-5 col-md-5">
               <FooterAbout />
             </div>
-            {/* <div className="col-xl-3 col-md-4">
+            <div className="col-xl-3 col-md-3">
               <div className="aximo-footer-menu text-center">
                 <div className="aximo-footer-title">
-                  <p>Our Services</p>
+                  <p className="fs-3">Our Services</p>
                 </div>
                 <ul>
                   <li>
-                    <Link to="/">EdTech Solutions</Link>
+                    <Link to="/service/ed-tech-solutions">
+                      EdTech Solutions
+                    </Link>
                   </li>
                   <li>
-                    <Link to="/">AI Solutions</Link>
+                    <Link to="/service/ai-solutions">AI Solutions</Link>
                   </li>
                   <li>
-                    <Link to="/">Educational Consulting</Link>
+                    <Link to="/service/educational-consulting">
+                      Educational Consulting
+                    </Link>
                   </li>
                   <li>
-                    <Link to="/">Competitions & Webinars</Link>
+                    <Link to="/service/competitions-webinars">
+                      Competitions & Webinars
+                    </Link>
                   </li>
                 </ul>
               </div>
             </div>
-            <div className="col-xl-4 col-md-4">
+            {/* <div className="col-xl-4 col-md-4">
               <div className="aximo-footer-menu text-center">
                 <div className="aximo-footer-title">
                   <p>Our Programs</p>
@@ -56,8 +62,8 @@ function Footer() {
                 </ul>
               </div>
             </div> */}
-            <div className="col-xl-1"></div>
-            <div className="col-xl-3 col-md-4">
+            <div className="col-xl-1 col-md-1"></div>
+            <div className="col-xl-3 col-md-3">
               <FooterContact />
             </div>
           </div>

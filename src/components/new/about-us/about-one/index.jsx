@@ -1,6 +1,7 @@
 import CheckImg from "../../../../assets/images/v7/check.png";
 import ThumbImg from "../../../../assets/images/v7/thumb1.png";
 import FadeInLeft from "../../../animation/FadeInLeft";
+import NewCheckImg from "../../../../assets/images/v7/location_13905671.png";
 function AboutOne() {
   return (
     <div
@@ -25,28 +26,28 @@ function AboutOne() {
               <div className="aximo-list-icon2">
                 <ul>
                   <li>
-                    <img src={CheckImg} alt="check mark" />
+                    <img src={NewCheckImg} alt="check mark" />
                     <span>Innovation: </span>We believe in creative
                     problem-solving and forward-thinking approaches to
                     education.
                   </li>
                   <li>
-                    <img src={CheckImg} alt="check mark" />
+                    <img src={NewCheckImg} alt="check mark" />
                     <span>Integrity:</span> We prioritize honesty, transparency,
                     and ethical decision-making.
                   </li>
                   <li>
-                    <img src={CheckImg} alt="check mark" />
+                    <img src={NewCheckImg} alt="check mark" />
                     <span>Equity:</span> We are committed to inclusive learning
                     that reaches every student.
                   </li>
                   <li>
-                    <img src={CheckImg} alt="check mark" />
+                    <img src={NewCheckImg} alt="check mark" />
                     <span>Excellence:</span> We deliver high-quality solutions
                     that meet real educational needs.
                   </li>
                   <li>
-                    <img src={CheckImg} alt="check mark" />
+                    <img src={NewCheckImg} alt="check mark" />
                     <span>Global Citizenship:</span> We promote cross-cultural
                     understanding and collaboration through learning.
                   </li>

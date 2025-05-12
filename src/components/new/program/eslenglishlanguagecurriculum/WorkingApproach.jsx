@@ -1,6 +1,7 @@
 import Single2Img from "../../../../assets/images/service/service-single2.png";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInRight from "../../../animation/FadeInRight";
+import MortarBoard from "../../../../assets/images/v4/mortarboard_10568898.png";
 
 const workingApprochData = [
   {
@@ -39,7 +40,7 @@ function WorkingApproach() {
             <span className="aximo-title-animation">
               Beyond the Classroom
               <span className="aximo-title-icon">
-                <img src={Star2Img} alt="star" />
+                <img src={MortarBoard} alt="star" />
               </span>
             </span>
           </h2>

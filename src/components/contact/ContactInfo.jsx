@@ -2,6 +2,7 @@ import Call2Img from "../../assets/images/icon/call2.svg";
 import EmailImg from "../../assets/images/icon/email.svg";
 import MapImg from "../../assets/images/icon/map.svg";
 import Star2Img from "../../assets/images/v1/star2.png";
+import MortarBoard from "../../assets/images/v4/mortarboard_10568898.png";
 import {
   FadeInStaggerTwo,
   FadeInStaggerTwoChildren,
@@ -15,7 +16,7 @@ function ContactInfo() {
             <span className="aximo-title-animation">
               Contact Information
               <span className="aximo-title-icon">
-                <img src={Star2Img} alt="Star" />
+                <img src={MortarBoard} alt="Star" />
               </span>
             </span>
           </h2>

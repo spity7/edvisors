@@ -57,6 +57,8 @@
 	--green-bg: #073d30;
 	--green-bg2: #02854c;
 	--cornflower-bg: #d68be7;
+	--edvisors-color:#3838ff;
+	--edvisors-light:#7373ff;
 }
 
 /*1.0 base css*/
@@ -757,7 +759,7 @@ p:last-child {
 }
 
 .yellow-bg {
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 
 a {
@@ -1931,7 +1933,7 @@ blockquote {
 }
 
 .bg-orange {
-	background-color: var(--orange-bg) !important;
+	background-color: var(--edvisors-light) !important;
 }
 
 .z-index {
@@ -2010,7 +2012,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	font-size: 16px;
 }
 .aximo-sidemenu-column .aximo-info ul li {
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 
 .aximo-sidemenu-thumb img {
@@ -2042,7 +2044,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	align-items: center;
 	justify-content: center;
 	border-radius: 0;
-	background-color: var(--orange-color2);
+	background-color: var(--edvisors-color);
 }
 
 .active .aximo-sidemenu-close {
@@ -2196,7 +2198,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-info ul li {
 	font-size: 21px;
-	color: var(--accent-color);
+	color: var(--edvisors-light);
 }
 .aximo-info ul li a {
 	color: var(--white-smoke);
@@ -2266,7 +2268,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	color: var(--light-color3);
 }
 .aximo-footer-menu.light-one ul li a:hover {
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 .aximo-footer-menu.light-two ul li a {
 	color: var(--light-color5);
@@ -2362,7 +2364,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-contact-info2 ul li a i {
 	font-size: 20px;
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 	margin-right: 10px;
 }
 .aximo-contact-info2.info3 ul li a i {
@@ -2514,7 +2516,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	transition: all 0.4s ease-in-out;
 	overflow: hidden;
 	color: var(--light-bg2) !important;
-	background-color: var(--orange-bg);
+	background-color: var(--edvisors-light);
 	position: relative;
 	z-index: 0;
 	overflow: hidden;
@@ -2535,14 +2537,14 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 }
 .aximo-default-btn.yellow-btn {
 	color: var(--heading-color) !important;
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 .aximo-default-btn.blue-btn {
 	color: var(--light-color3) !important;
 	background-color: var(--blue-bg);
 }
 .aximo-default-btn.blue-btn:hover {
-	background-color: var(--orange-bg2);
+	background-color: var(--edvisors-light2);
 }
 .aximo-default-btn.corn-btn {
 	color: var(--green-color) !important;
@@ -2574,7 +2576,7 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 	color: var(--heading-color) !important;
 	border: 2px solid var(--heading-color);
 	box-shadow: 0px 4px 0px 0px var(--white-smoke);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 .aximo-default-btn.aximo-header-btn:hover {
 	box-shadow: none;
@@ -2588,9 +2590,9 @@ header.aximo-header-section.aximo-header7.sticky-menu {
 .aximo-default-btn.aximo-header-btn.yellow-btn {
 	box-shadow: none;
 	border: none;
-	width: 180px;
+	width: 150px;
 	line-height: 50px;
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 .aximo-default-btn.aximo-header-btn.green-btn {
 	color: var(--light-color5) !important;
@@ -2814,7 +2816,7 @@ textarea::placeholder {
 .aximo-form-field input:focus,
 .aximo-form-field textarea:focus,
 .aximo-form-field textarea:focus {
-	border: 1px solid var(--accent-color) !important;
+	border: 1px solid var(--edvisors-light) !important;
 }
 .aximo-form-field input::-webkit-input-placeholder,
 .aximo-form-field input::-webkit-input-placeholder,
@@ -2880,7 +2882,7 @@ textarea::placeholder {
 	font-weight: 700;
 	border-radius: 50px;
 	border: 2px solid var(--dark-bg);
-	background: var(--accent-bg);
+	background: var(--edvisors-light);
 	box-shadow: 0px 4px 0px 0px #fdfde1;
 	transition: all 0.4s;
 	padding-left: 40px;
@@ -3005,7 +3007,7 @@ button#aximo-submit-btn2 {
 	overflow: hidden;
 	transition: all 0.4s;
 	color: var(--heading-color);
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 button#aximo-submit-btn2 .aximo-label-up {
 	display: block;
@@ -3025,7 +3027,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 	border: 2px solid #999 !important;
 }
 .aximo-subscription input:focus {
-	border: 2px solid var(--orange-bg) !important;
+	border: 2px solid var(--edvisors-light) !important;
 }
 .aximo-subscription input::-webkit-input-placeholder {
 	/* WebKit, Blink, Edge */
@@ -3068,7 +3070,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 	border: none !important;
 	padding: 0 !important;
 	color: var(--light-bg2);
-	background-color: var(--orange-bg);
+	background-color: var(--edvisors-light);
 	transition: all 0.4s;
 	overflow: hidden;
 }
@@ -3100,7 +3102,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 	color: #fff;
 }
 .aximo-subscription2 input:focus {
-	border: 2px solid var(--orange-bg2) !important;
+	border: 2px solid var(--edvisors-light2) !important;
 }
 @media (max-width: 767px) {
 	.aximo-subscription2 input {
@@ -3155,7 +3157,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 	transition: all 0.4s;
 }
 #aximo-subscription-btn2:hover {
-	background-color: var(--orange-bg2);
+	background-color: var(--edvisors-light2);
 }
 #aximo-subscription-btn2 .aximo-label-up {
 	display: block;
@@ -3266,7 +3268,7 @@ button#aximo-submit-btn2:hover .aximo-label-up {
 }
 #comment-btn:hover {
 	color: var(--heading-color);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 @media (max-width: 767px) {
 	#comment-btn {
@@ -3313,7 +3315,7 @@ h1.post__title {
 	padding: 0 20px;
 	position: relative;
 	display: inline-block;
-	color: var(--accent-color);
+	color: var(--edvisors-light);
 }
 @media (max-width: 767px) {
 	.breadcrumbs ul li {
@@ -3363,9 +3365,9 @@ h1.post__title {
 .aximo-navigation span.current,
 .page-links .current {
 	cursor: not-allowed;
-	background-color: var(--accent-color);
+	background-color: var(--edvisors-light);
 	color: var(--heading-color);
-	border-color: var(--accent-color);
+	border-color: var(--edvisors-light);
 }
 
 .aximo-navigation a,
@@ -3388,9 +3390,9 @@ h1.post__title {
 
 .aximo-navigation a:hover,
 .page-links a:hover {
-	background-color: var(--accent-color);
+	background-color: var(--edvisors-light);
 	color: var(--heading-color);
-	border-color: var(--accent-color);
+	border-color: var(--edvisors-light);
 }
 
 .aximo-hero-section {
@@ -3571,7 +3573,7 @@ h1.post__title {
 	justify-content: space-between;
 	color: var(--heading-color) !important;
 	border: 2px solid var(--dark-bg);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	box-shadow: 0px 4px 0px 0px var(--white-smoke);
 	transition: all 0.4s;
 }
@@ -4036,7 +4038,7 @@ button#aximo-hero-subscription-btn {
 	padding: 0 5px !important;
 	border: none !important;
 	position: absolute;
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 button#aximo-hero-subscription-btn .aximo-label-up {
 	display: block;
@@ -4119,7 +4121,7 @@ button#aximo-hero-subscription-btn:hover .aximo-label-up {
 .aximo-hero-content4 p span {
 	font-size: 24px;
 	font-weight: 600;
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 .aximo-hero-content4 h1 {
 	font-size: 120px;
@@ -4519,7 +4521,7 @@ span.aximo-hero-shape-title2 {
 	border: none;
 }
 .aximo-counter-data h2 {
-	color: var(--accent-color);
+	color: var(--edvisors-light);
 	margin-bottom: 5px;
 }
 .aximo-counter-data p {
@@ -4651,7 +4653,7 @@ span.aximo-hero-shape-title2 {
 	border-radius: 10px;
 	padding: 100px 25px;
 	margin-bottom: 24px;
-	background-color: var(--orange-bg2);
+	background-color: var(--edvisors-light2);
 }
 @media (max-width: 767px) {
 	.aximo-counter-wrap4 {
@@ -4944,7 +4946,7 @@ p.aximo-skillbar-lable {
 	position: absolute;
 	left: 0;
 	margin-bottom: 0px;
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .aximo-team-wrap3 {
@@ -5003,7 +5005,7 @@ p.aximo-skillbar-lable {
 	border: 2px solid var(--heading-color);
 }
 .aximo-iconbox-wrap:hover {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	box-shadow: 4px 4px 0 0 var(--heading-color);
 }
 .aximo-iconbox-icon {
@@ -5092,7 +5094,7 @@ p.aximo-skillbar-lable {
 	border: 2px solid var(--heading-color3);
 }
 .aximo-iconbox-wrap4:hover .aximo-icon path {
-	stroke: var(--orange-color2);
+	stroke: var(--edvisors-color);
 }
 .aximo-iconbox-icon4 {
 	margin-bottom: 30px;
@@ -5258,12 +5260,12 @@ p.aximo-skillbar-lable {
 	border-top: 2px solid #e6e6e6;
 }
 .aximo-numberbox-wrap:hover {
-	border-top: 2px solid var(--orange-bg2);
+	border-top: 2px solid var(--edvisors-light2);
 }
 .aximo-numberbox-wrap:hover .aximo-numberbox-number {
 	color: var(--light-color3);
-	border: 1px solid var(--orange-bg2);
-	background-color: var(--orange-bg2);
+	border: 1px solid var(--edvisors-light2);
+	background-color: var(--edvisors-light2);
 }
 .aximo-numberbox-number {
 	line-height: 1;
@@ -5370,7 +5372,7 @@ a.aximo-service-icon:hover {
 	box-shadow: none;
 }
 .aximo-accordion-wrap .accordion-item:has(.accordion-collapse.show) {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	box-shadow: 3px 3px 0 0 var(--dark-bg);
 }
 .aximo-accordion-wrap .accordion-button::after {
@@ -5434,7 +5436,7 @@ a.aximo-service-icon:hover {
 	box-shadow: none;
 }
 /* .aximo-accordion-wrap2 .accordion-item:has(.accordion-collapse.show) {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 } */
 .aximo-accordion-wrap2 .accordion-button::after {
 	background-image: url(../images/v1/accordion-inactive.svg);
@@ -5507,8 +5509,8 @@ a.aximo-service-icon:hover {
 	transition: all 0.4s;
 }
 .aximo-accordion-wrap3 .accordion-button:not(.collapsed)::before {
-	background-color: var(--yellow-bg);
-	border: 1px solid var(--yellow-bg);
+	background-color: var(--edvisors-light);
+	border: 1px solid var(--edvisors-light);
 }
 .aximo-accordion-wrap3 .accordion-body {
 	font-size: 21px;
@@ -6321,7 +6323,7 @@ img.aximo-video-circle {
 	color: var(--heading-color);
 }
 .aximo-social-icon ul li a:hover {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	box-shadow: 0 2px 0 0 var(--white-smoke);
 	border: 1px solid var(--dark-bg);
 }
@@ -6389,8 +6391,8 @@ img.aximo-video-circle {
 	border: 1px solid var(--heading-color);
 }
 .header-social.aximo-social-icon ul li a:hover {
-	background-color: var(--yellow-bg);
-	border: 1px solid var(--yellow-bg);
+	background-color: var(--edvisors-light);
+	border: 1px solid var(--edvisors-light);
 }
 .header-social.aximo-social-icon ul li a i {
 	color: var(--heading-color);
@@ -6404,7 +6406,7 @@ img.aximo-video-circle {
 }
 .aximo-social-icon3 ul li a:hover {
 	box-shadow: none;
-	background-color: var(--orange-bg2);
+	background-color: var(--edvisors-light2);
 }
 .aximo-social-icon3 ul li a svg path {
 	fill: var(--light-color3);
@@ -6514,7 +6516,7 @@ img.aximo-video-circle {
 	white-space: nowrap;
 	padding: 0 24px;
 	text-transform: uppercase;
-	color: var(--accent-color);
+	color: var(--edvisors-light);
 }
 @media (max-width: 767px) {
 	.aximo-auto-slider-item h3 {
@@ -6695,7 +6697,7 @@ img.aximo-video-circle {
 .aximo-brandlogo-title2 p {
 	font-size: 24px;
 	font-weight: 600;
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 .aximo-brandlogo-item {
 	margin: 0 40px;
@@ -6860,13 +6862,13 @@ img.aximo-video-circle {
 }
 .aximo-pricing-btn:hover {
 	color: var(--light-color1) !important;
-	background-color: var(--orange-bg);
-	border: 2px solid var(--orange-bg);
+	background-color: var(--edvisors-light);
+	border: 2px solid var(--edvisors-light);
 }
 .aximo-pricing-btn.active {
 	color: var(--light-color1) !important;
-	background-color: var(--orange-bg);
-	border: 2px solid var(--orange-bg);
+	background-color: var(--edvisors-light);
+	border: 2px solid var(--edvisors-light);
 }
 .aximo-pricing-btn.active:hover {
 	background-color: var(--dark-bg);
@@ -6930,16 +6932,16 @@ img.aximo-video-circle {
 }
 .aximo-pricing-btn2:hover {
 	color: var(--heading-color) !important;
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 .aximo-pricing-btn2.active {
 	color: var(--heading-color) !important;
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 .aximo-pricing-btn2.active:hover {
 	color: var(--white-smoke) !important;
 	background-color: var(--dark-bg);
-	border: 2px solid var(--accent-bg);
+	border: 2px solid var(--edvisors-light);
 }
 
 .aximo-shape {
@@ -7235,7 +7237,7 @@ img.aximo-video-circle {
 	transition: all 0.4s;
 }
 .aximo-project-icon:hover svg path {
-	stroke: var(--accent-color);
+	stroke: var(--edvisors-light);
 }
 
 .aximo-project-slider .swiper-pagination {
@@ -7269,7 +7271,7 @@ img.aximo-video-circle {
 }
 
 .aximo-project-slider .swiper-pagination-bullet-active {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .aximo-project-section {
@@ -7520,7 +7522,7 @@ img.aximo-video-circle {
 	position: absolute;
 	transition: all 0.4s;
 	transform: translate(-50%, -50%);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	border: 2px solid var(--dark-bg);
 }
 @media (max-width: 767px) {
@@ -8097,7 +8099,7 @@ button#aximo-account-btn {
 }
 button#aximo-account-btn:hover {
 	color: var(--heading-color);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .aximo-or {
@@ -8222,7 +8224,7 @@ a.aximo-connect-login img {
 	font-size: 24px;
 	color: var(--white-smoke);
 	transform: translateY(-50%);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .z-index {
@@ -8318,7 +8320,7 @@ a.aximo-connect-login img {
 	margin-bottom: 20px;
 	display: block;
 	font-weight: 600;
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 
 .aximo-section-title {
@@ -8870,7 +8872,7 @@ a.aximo-connect-login img {
 	justify-content: center;
 	position: absolute;
 	color: var(--heading-color);
-	background-color: var(--yellow-bg);
+	background-color: var(--edvisors-light);
 }
 
 .aximo-content-section {
@@ -8904,7 +8906,7 @@ a.aximo-connect-login img {
 	height: 100%;
 	position: absolute;
 	transition: all 0.4s;
-	background-color: var(--orange-bg2);
+	background-color: var(--edvisors-light2);
 }
 .aximo-instagram-thumb:hover:before {
 	opacity: 1;
@@ -9385,10 +9387,10 @@ a.aximo-connect-login img {
 	transform: scale(1.1);
 }
 .aximo-blog-wrap:hover .aximo-blog-btn {
-	color: var(--orange-color2);
+	color: var(--edvisors-color);
 }
 .aximo-blog-wrap:hover .aximo-blog-btn svg path {
-	stroke: var(--orange-color2);
+	stroke: var(--edvisors-color);
 }
 .aximo-blog-thumb {
 	overflow: hidden;
@@ -9463,8 +9465,8 @@ a.aximo-connect-login img {
 }
 .aximo-blog-meta ul li a:hover {
 	color: var(--white-smoke);
-	background-color: var(--orange-bg2);
-	border: 1px solid var(--orange-bg2);
+	background-color: var(--edvisors-light2);
+	border: 1px solid var(--edvisors-light2);
 }
 
 .aximo-blog-wrap2 {
@@ -9602,8 +9604,8 @@ a.aximo-connect-login img {
 }
 
 .post-category a:hover {
-	background-color: var(--accent-bg);
-	border: 1px solid var(--accent-bg);
+	background-color: var(--edvisors-light);
+	border: 1px solid var(--edvisors-light);
 }
 
 .post-date {
@@ -9749,7 +9751,7 @@ a.post-read-more:hover img {
 .widget .tagcloud a:hover,
 .widget .wp-block-tag-cloud a:hover,
 .wp-block-tag-cloud a:hover {
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .wp-block-search__inside-wrapper {
@@ -9980,7 +9982,7 @@ a.comment-reply {
 }
 #aximo-main-btn:hover {
 	color: var(--heading-color);
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 }
 
 .aximo-contact-thumb {
@@ -10073,7 +10075,7 @@ a.comment-reply {
 }
 .aximo-loading-dots--dot {
 	animation: dot-keyframes 1.5s infinite ease-in-out;
-	background-color: var(--accent-bg);
+	background-color: var(--edvisors-light);
 	border-radius: 10px;
 	display: inline-block;
 	height: 12px;
@@ -10131,7 +10133,7 @@ a.comment-reply {
 	width: 13px;
 	height: 13px;
 	border-radius: 50%;
-	background: var(--accent-color);
+	background: var(--edvisors-light);
 	animation-timing-function: cubic-bezier(0, 1, 1, 0);
 }
 

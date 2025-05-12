@@ -1,6 +1,7 @@
 import { useForm } from "react-hook-form";
 import ContactThumb from "../../assets/images/contact/contact-thumb.png";
 import Star2Img from "../../assets/images/v1/star2.png";
+import MortarBoard from "../../assets/images/v4/mortarboard_10568898.png";
 import FadeInRight from "../animation/FadeInRight";
 import Field from "../common/Field";
 function ContactForm() {
@@ -25,7 +26,7 @@ function ContactForm() {
                 <span className="aximo-title-animation">
                   Contact us for a
                   <span className="aximo-title-icon">
-                    <img src={Star2Img} alt="Star" />
+                    <img src={MortarBoard} alt="Star" />
                   </span>
                 </span>
                 personal experience
