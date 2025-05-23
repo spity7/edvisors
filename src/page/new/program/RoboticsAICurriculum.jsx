@@ -1,9 +1,9 @@
-import BreadCrumb from "../../../components/common/Breadcrumb";
+import BreadCrumbRobotics from "../../../components/common/BreadcrumbRobotics";
 import ServiceDetails from "../../../components/new/program/roboticsaicurriculum/ServiceDetails";
 function RoboticsAICurriculum() {
   return (
     <>
-      <BreadCrumb title="Robotics & AI Curriculum" />
+      <BreadCrumbRobotics title="Robotics & AI Curriculum" />
       <ServiceDetails />
     </>
   );

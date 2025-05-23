@@ -1,4 +1,4 @@
-import Single2Img from "../../../../assets/images/service/service-single2.png";
+import Single2Img from "../../../../assets/images/service1/e-learning-education-networking-website-study-concept.jpg";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import MortarBoard from "../../../../assets/images/v4/mortarboard_10568898.png";
 import FadeInRight from "../../../animation/FadeInRight";

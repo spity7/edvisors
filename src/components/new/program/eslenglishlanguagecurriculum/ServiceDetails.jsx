@@ -1,4 +1,4 @@
-import SingleImg from "../../../../assets/images/service/service-single.png";
+import SingleImg from "../../../../assets/images/program3/1520168104559.jpeg";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInUp from "../../../animation/FadeInUp";
 import WorkingApproach from "./WorkingApproach";

@@ -1,5 +1,5 @@
 import CheckImg from "../../../../assets/images/v7/check.png";
-import ThumbImg from "../../../../assets/images/v7/thumb1.png";
+import ThumbImg from "../../../../assets/images/v7/freepik__adjust__62989.png";
 import FadeInLeft from "../../../animation/FadeInLeft";
 import NewCheckImg from "../../../../assets/images/v7/location_13905671.png";
 function AboutOne() {

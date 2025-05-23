@@ -22,29 +22,33 @@ function ContactInfo() {
           </h2>
         </div>
         <FadeInStaggerTwo className="row">
-          <FadeInStaggerTwoChildren className="col-xl-4 col-md-6">
-            <div className="aximo-contact-info-box">
-              <div className="aximo-contact-info-icon">
-                <img src={Call2Img} alt="Call Img" />
+          <FadeInStaggerTwoChildren className="col-xl-6 col-md-6">
+            <a href="https://wa.me/13138881754" target="_blank">
+              <div className="aximo-contact-info-box">
+                <div className="aximo-contact-info-icon">
+                  <img src={Call2Img} alt="Call Img" />
+                </div>
+                <div className="aximo-contact-info-data">
+                  <span>Call us</span>
+                  <p>+1 (313) 888-1754</p>
+                </div>
               </div>
-              <div className="aximo-contact-info-data">
-                <span>Call us</span>
-                <p>+1 (313) 888-1754</p>
-              </div>
-            </div>
+            </a>
           </FadeInStaggerTwoChildren>
-          <FadeInStaggerTwoChildren className="col-xl-4 col-md-6">
-            <div className="aximo-contact-info-box">
-              <div className="aximo-contact-info-icon">
-                <img src={EmailImg} alt="Email" />
+          <FadeInStaggerTwoChildren className="col-xl-6 col-md-6">
+            <a href="mailto:example@gmail.com">
+              <div className="aximo-contact-info-box">
+                <div className="aximo-contact-info-icon">
+                  <img src={EmailImg} alt="Email" />
+                </div>
+                <div className="aximo-contact-info-data">
+                  <span>Email us</span>
+                  <p>info@edvisors.ai</p>
+                </div>
               </div>
-              <div className="aximo-contact-info-data">
-                <span>Email us</span>
-                <p>info@edvisors.ai</p>
-              </div>
-            </div>
+            </a>
           </FadeInStaggerTwoChildren>
-          <FadeInStaggerTwoChildren className="col-xl-4 col-md-6">
+          {/* <FadeInStaggerTwoChildren className="col-xl-4 col-md-6">
             <div className="aximo-contact-info-box">
               <div className="aximo-contact-info-icon">
                 <img src={MapImg} alt="Map" />
@@ -54,7 +58,7 @@ function ContactInfo() {
                 <p>New York</p>
               </div>
             </div>
-          </FadeInStaggerTwoChildren>
+          </FadeInStaggerTwoChildren> */}
         </FadeInStaggerTwo>
       </div>
     </div>

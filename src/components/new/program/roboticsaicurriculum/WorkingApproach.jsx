@@ -1,4 +1,4 @@
-import Single2Img from "../../../../assets/images/service/service-single2.png";
+import Single2Img from "../../../../assets/images/program1/image-69.webp";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInRight from "../../../animation/FadeInRight";
 import MortarBoard from "../../../../assets/images/v4/mortarboard_10568898.png";

@@ -6,112 +6,17 @@ import { Autoplay } from "swiper/modules";
 const sliderData = [
   {
     id: crypto.randomUUID(),
-    title: "Let's create new experiences",
+    title: "Unlock Your Future with Quality Education",
     img: MortarBoard,
   },
   {
     id: crypto.randomUUID(),
-    title: "Let's create new experiences",
+    title: "Empower Your Mind, Empower Your Life",
     img: MortarBoard,
   },
   {
     id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: Star3Img,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
-    img: MortarBoard,
-  },
-  {
-    id: crypto.randomUUID(),
-    title: "Let's create new experiences",
+    title: "Achieve More Through Learning",
     img: MortarBoard,
   },
 ];

@@ -19,7 +19,7 @@ function FooterContact() {
             </a>
           </li>
           <li>
-            <i className="icon-map"></i> Haward Street,10203 USA
+            <i className="icon-map"></i> United States
           </li>
         </ul>
       </div>

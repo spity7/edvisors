@@ -5,7 +5,13 @@ import ServiceCard from "./ServiceCard";
 
 function Services({ services }) {
   return (
-    <div className="section aximo-section-padding4">
+    <div
+      className="section aximo-section-padding4"
+      style={{
+        background:
+          "linear-gradient(135deg, #4284ff 0%, #feffd2 40%, #2a78ff 100%)",
+      }}
+    >
       <div className="container">
         <div className="aximo-section-title center">
           <h2 className="fw-bold">

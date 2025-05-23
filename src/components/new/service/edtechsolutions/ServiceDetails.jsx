@@ -1,10 +1,13 @@
-import SingleImg from "../../../../assets/images/service/service-single.png";
+import SingleImg from "../../../../assets/images/service1/city-committed-education-collage-concept.jpg";
 import Star2Img from "../../../../assets/images/v1/star2.png";
 import FadeInUp from "../../../animation/FadeInUp";
 import WorkingApproach from "./WorkingApproach";
 function ServiceDetails() {
   return (
-    <div className="section aximo-section-padding2 pb-0" style={{paddingTop: 20}}>
+    <div
+      className="section aximo-section-padding2 pb-0"
+      style={{ paddingTop: 20 }}
+    >
       <div className="container">
         <div className="aximo-service-details-wrap">
           <FadeInUp className="aximo-service-details-thumb">

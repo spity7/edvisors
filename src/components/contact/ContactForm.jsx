@@ -1,5 +1,5 @@
 import { useForm } from "react-hook-form";
-import ContactThumb from "../../assets/images/contact/contact-thumb.png";
+import ContactThumb from "../../assets/images/contact/freepik__adjust__76875.png";
 import Star2Img from "../../assets/images/v1/star2.png";
 import MortarBoard from "../../assets/images/v4/mortarboard_10568898.png";
 import FadeInRight from "../animation/FadeInRight";

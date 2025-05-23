@@ -25,16 +25,18 @@ function Contact() {
                       +1 (313) 888-1754
                     </a>
                   </li>
+                  <br />
                   <li>
                     <a href="mailto:example@gmail.com">
                       <i className="icon-message"></i>
                       info@edvisors.ai
                     </a>
                   </li>
+                  <br />
                   <li>
                     <a>
                       <i className="icon-map"></i>
-                      Haward Street,10203 USA
+                      United States
                     </a>
                   </li>
                 </ul>
