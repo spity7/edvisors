@@ -1,13 +1,13 @@
+import VideoPopup from "@/components/elements/VideoPopup";
+import Link from "next/link";
 
-import VideoPopup from '@/components/elements/VideoPopup'
-import Link from 'next/link'
+const HeroVideo = "/assets/videos/Empowering Future Innovators(1).mp4";
 
 export default function Section1() {
-    return (
-        <>
-
-            <section className="section-box">
-                <div className="banner-hero hero-1"><span className="bg-icon-banner shape-1" />
+  return (
+    <>
+      <section className="section-box">
+        {/* <div className="banner-hero hero-1"><span className="bg-icon-banner shape-1" />
                     <div className="banner-inner"><span className="bg-circle shape-3" />
                         <div className="container">
                             <div className="row">
@@ -28,8 +28,16 @@ export default function Section1() {
                             </div>
                         </div>
                     </div>
-                </div>
-            </section>
-        </>
-    )
+                </div> */}
+        <video
+          className="hero-bg-video"
+          src={HeroVideo}
+          autoPlay
+          loop
+          muted
+          playsInline
+        ></video>
+      </section>
+    </>
+  );
 }
