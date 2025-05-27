@@ -49,8 +49,8 @@ export default function Header1({
                     alt="Edvisors"
                     src={`/assets/imgs/template/${
                       logoWhite
-                        ? "Logo Edvisors - white"
-                        : "Logo Edvisors - black"
+                        ? "Logo Edvisors - black"
+                        : "Logo Edvisors - white"
                     }.png`}
                     width={133}
                   />
@@ -65,7 +65,7 @@ export default function Header1({
                       </Link>
                     </li>
                     <li>
-                      <Link href="/about">About</Link>
+                      <Link href="/">About</Link>
                     </li>
                     <li className="has-children">
                       <Link className="active" href="/">
@@ -76,13 +76,13 @@ export default function Header1({
                           <Link href="/">EdTech Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/index-2">AI Solutions</Link>
+                          <Link href="/">AI Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/index-3">Educational Consulting</Link>
+                          <Link href="/">Educational Consulting</Link>
                         </li>
                         <li>
-                          <Link href="/index-4">Competitions & Webinars</Link>
+                          <Link href="/">Competitions & Webinars</Link>
                         </li>
                       </ul>
                     </li>
@@ -95,19 +95,15 @@ export default function Header1({
                           <Link href="/">Robotics & AI Curriculum</Link>
                         </li>
                         <li>
-                          <Link href="/index-2">
-                            Skills & Competences Curriculum
-                          </Link>
+                          <Link href="/">Skills & Competences Curriculum</Link>
                         </li>
                         <li>
-                          <Link href="/index-3">
-                            ESL English Language Curriculum
-                          </Link>
+                          <Link href="/">ESL English Language Curriculum</Link>
                         </li>
                       </ul>
                     </li>
                     <li>
-                      <Link href="/contact">Contact</Link>
+                      <Link href="/">Contact</Link>
                     </li>
                   </ul>
                 </nav>
@@ -115,7 +111,11 @@ export default function Header1({
             </div>
             <div className="header-right">
               {/* <SearchForm /> */}
-              <Link className="btn btn-brand-4-medium hover-up" href="#">
+              <Link
+                className="btn btn-brand-4-medium hover-up"
+                href="https://wa.me/13138881754"
+                target="_blank"
+              >
                 Call Us
                 <svg
                   width={22}
