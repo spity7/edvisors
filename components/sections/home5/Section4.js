@@ -1,3 +1,4 @@
+"use client";
 import Link from "next/link";
 
 export default function Section4() {
@@ -19,7 +20,18 @@ export default function Section4() {
           </div>
           <div className="row mt-40">
             <div className="col-lg-5">
-              <div className="card-design">
+              <div
+                className="card-design"
+                style={{
+                  transition: "transform 0.4s",
+                }}
+                onMouseEnter={(e) =>
+                  (e.currentTarget.style.transform = "scale(1.03)")
+                }
+                onMouseLeave={(e) =>
+                  (e.currentTarget.style.transform = "scale(1)")
+                }
+              >
                 <div className="card-image">
                   <img
                     alt="Nivia"
@@ -36,7 +48,18 @@ export default function Section4() {
               </div>
             </div>
             <div className="col-lg-7">
-              <div className="card-design card-design-style2">
+              <div
+                className="card-design card-design-style2"
+                style={{
+                  transition: "transform 0.4s",
+                }}
+                onMouseEnter={(e) =>
+                  (e.currentTarget.style.transform = "scale(1.03)")
+                }
+                onMouseLeave={(e) =>
+                  (e.currentTarget.style.transform = "scale(1)")
+                }
+              >
                 <div className="card-image">
                   <img
                     alt="Nivia"
@@ -55,8 +78,20 @@ export default function Section4() {
                 </div>
               </div>
             </div>
-            <div className="col-lg-9">
-              <div className="card-design card-design-style3">
+            <div className="col-lg-1" />
+            <div className="col-lg-10">
+              <div
+                className="card-design card-design-style3"
+                style={{
+                  transition: "transform 0.4s",
+                }}
+                onMouseEnter={(e) =>
+                  (e.currentTarget.style.transform = "scale(1.03)")
+                }
+                onMouseLeave={(e) =>
+                  (e.currentTarget.style.transform = "scale(1)")
+                }
+              >
                 <div className="card-image">
                   <img alt="Nivia" src="/assets/imgs/page/homepage6/fast.png" />
                 </div>
@@ -72,6 +107,7 @@ export default function Section4() {
                 </div>
               </div>
             </div>
+            <div className="col-lg-1" />
             {/* <div className="col-xl-4 col-lg-6">
               <div className="card-design card-design-style4">
                 <div className="card-image">
@@ -88,8 +124,8 @@ export default function Section4() {
                   </p>
                 </div>
               </div>
-            </div>
-            <div className="col-xl-4 col-lg-6">
+            </div> */}
+            {/* <div className="col-xl-4 col-lg-6">
               <div className="card-design card-design-style5">
                 <div className="card-image">
                   <img
@@ -107,12 +143,16 @@ export default function Section4() {
           </div>
           <div className="text-center">
             <h4>
-              Boost your sales with our platform.
+              Ready to elevate your programs with our expert solutions?
               <br className="d-none d-lg-block" />
-              <Link className="link-green" href="#">
-                Contact us
+              <Link
+                className="link-green"
+                href="https://wa.me/13138881754"
+                target="_blank"
+              >
+                Get in touch
               </Link>{" "}
-              now for a quote
+              today to get started!
             </h4>
           </div>
         </div>

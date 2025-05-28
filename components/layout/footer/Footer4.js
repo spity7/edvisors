@@ -47,7 +47,7 @@ export default function Footer4() {
               <Link href="/">
                 <img
                   alt="Nivia"
-                  src="/assets/imgs/template/Logo Edvisors - black.png"
+                  src="/assets/imgs/template/Logo Edvisors - white.png"
                 />
               </Link>
               <div className="mt-20 mb-20">
@@ -145,9 +145,9 @@ export default function Footer4() {
                 <a className="icon-socials icon-twitter" href="#">
                   <img alt="Nivia" src="/assets/imgs/template/icons/tw.svg" />
                 </a>
-                <a className="icon-socials icon-be" href="#">
+                {/* <a className="icon-socials icon-be" href="#">
                   <img alt="Nivia" src="/assets/imgs/template/icons/be.svg" />
-                </a>
+                </a> */}
                 <p />
               </div>
             </div>

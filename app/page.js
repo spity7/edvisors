@@ -15,7 +15,12 @@ import Section777 from "@/components/sections/home4/Section7";
 export default function Home5() {
   return (
     <>
-      <Layout headerStyle={1} footerStyle={4} logoWhite>
+      <Layout
+        headerStyle={1}
+        footerStyle={4}
+        headerCls="header-style-2 header-style-5"
+        logoWhite
+      >
         <Section1 />
         <Section2 />
         <Section3 />

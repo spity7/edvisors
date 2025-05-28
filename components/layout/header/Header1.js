@@ -52,7 +52,7 @@ export default function Header1({
                         ? "Logo Edvisors - black"
                         : "Logo Edvisors - white"
                     }.png`}
-                    width={133}
+                    width={240}
                   />
                 </Link>
               </div>
@@ -60,15 +60,17 @@ export default function Header1({
                 <nav className="nav-main-menu d-none d-xl-block">
                   <ul className="main-menu">
                     <li>
-                      <Link className="active" href="/">
+                      <Link className="active fw-bold" href="/">
                         Home
                       </Link>
                     </li>
                     <li>
-                      <Link href="/">About</Link>
+                      <Link href="/about" className="fw-bold">
+                        About
+                      </Link>
                     </li>
                     <li className="has-children">
-                      <Link className="active" href="/">
+                      <Link className="active fw-bold" href="/">
                         Services
                       </Link>
                       <ul className="sub-menu">
@@ -87,7 +89,7 @@ export default function Header1({
                       </ul>
                     </li>
                     <li className="has-children">
-                      <Link className="active" href="/">
+                      <Link className="active fw-bold" href="/">
                         Programs
                       </Link>
                       <ul className="sub-menu">
@@ -103,7 +105,9 @@ export default function Header1({
                       </ul>
                     </li>
                     <li>
-                      <Link href="/">Contact</Link>
+                      <Link href="/contact" className="fw-bold">
+                        Contact
+                      </Link>
                     </li>
                   </ul>
                 </nav>

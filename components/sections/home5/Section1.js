@@ -6,7 +6,7 @@ const HeroVideo = "/assets/videos/Empowering Future Innovators(1).mp4";
 export default function Section1() {
   return (
     <>
-      <section className="section-box">
+      <section className="section-box" style={{ borderBottom: "1px solid" }}>
         {/* <div className="banner-hero hero-1"><span className="bg-icon-banner shape-1" />
                     <div className="banner-inner"><span className="bg-circle shape-3" />
                         <div className="container">

@@ -56,9 +56,8 @@ export default function Section6() {
                 <div className="card-info">
                   <h3>Absolute safety</h3>
                   <p className="text-md">
-                    Tristique tellus feugiat sagittis mattis ut ipsum amet enim
-                    gravida lectus accumsan scelerisque lectus at anon nibh
-                    rutrum at eget sed.
+                    Your data and privacy are protected with industry-leading
+                    security protocols and best practices.
                   </p>
                 </div>
               </div>
@@ -72,9 +71,8 @@ export default function Section6() {
                 <div className="card-info">
                   <h3>Fast transaction</h3>
                   <p className="text-md">
-                    Tristique tellus feugiat sagittis mattis ut ipsum amet enim
-                    gravida lectus accumsan scelerisque lectus at anon nibh
-                    rutrum at eget sed.
+                    Experience seamless and instant transactions, ensuring
+                    efficiency and reliability every time.
                   </p>
                 </div>
               </div>
@@ -110,9 +108,8 @@ export default function Section6() {
                 <div className="card-info">
                   <h3>Great community</h3>
                   <p className="text-md">
-                    Tristique tellus feugiat sagittis mattis ut ipsum amet enim
-                    gravida lectus accumsan scelerisque lectus at anon nibh
-                    rutrum at eget sed.
+                    Join a vibrant community of innovators, educators, and
+                    learners collaborating for success.
                   </p>
                 </div>
               </div>
@@ -126,9 +123,8 @@ export default function Section6() {
                 <div className="card-info">
                   <h3>Rapid development</h3>
                   <p className="text-md">
-                    Tristique tellus feugiat sagittis mattis ut ipsum amet enim
-                    gravida lectus accumsan scelerisque lectus at anon nibh
-                    rutrum at eget sed.
+                    Accelerate your projects with our agile tools and expert
+                    support for fast, effective results.
                   </p>
                 </div>
               </div>

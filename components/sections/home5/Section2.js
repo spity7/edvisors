@@ -127,12 +127,12 @@ export default function Section2() {
                       </div>
                     </div>
                   </li>
-                  {/* <li className="carouselTicker__item">
+                  <li className="carouselTicker__item">
                     <div className="item-grow">
                       <Link href="#">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/grow.png"
+                          src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -155,7 +155,7 @@ export default function Section2() {
                               />
                             </svg>
                           </span>{" "}
-                          Marketing
+                          Educational Consulting
                         </Link>
                       </div>
                     </div>
@@ -165,7 +165,7 @@ export default function Section2() {
                       <Link href="#">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/grow2.png"
+                          src="/assets/imgs/page/homepage6/Webinar-and-online-education-concept.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -219,11 +219,11 @@ export default function Section2() {
                               </defs>
                             </svg>
                           </span>{" "}
-                          Development
+                          Competitions & Webinars
                         </Link>
                       </div>
                     </div>
-                  </li> */}
+                  </li>
                 </Marquee>
               </div>
               <div
@@ -332,12 +332,12 @@ export default function Section2() {
                       </div>
                     </div>
                   </li>
-                  {/* <li className="carouselTicker__item">
+                  <li className="carouselTicker__item">
                     <div className="item-grow">
                       <Link href="#">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/grow4.png"
+                          src="/assets/imgs/page/homepage6/city-committed-education-collage-concept.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -356,7 +356,7 @@ export default function Section2() {
                               />
                             </svg>
                           </span>{" "}
-                          Social Media
+                          EdTech Solutions
                         </Link>
                       </div>
                     </div>
@@ -366,7 +366,7 @@ export default function Section2() {
                       <Link href="#">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/grow2.png"
+                          src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -420,11 +420,11 @@ export default function Section2() {
                               </defs>
                             </svg>
                           </span>{" "}
-                          Development
+                          AI Solutions
                         </Link>
                       </div>
                     </div>
-                  </li> */}
+                  </li>
                 </Marquee>
               </div>
             </div>
@@ -433,14 +433,15 @@ export default function Section2() {
             <div className="row">
               <div className="col-lg-6">
                 <h3 className="heading-3">
-                  Take your online presence to the next level with my Services.
+                  Empower your institution with innovative EdTech, AI, and
+                  consulting solutions.
                 </h3>
               </div>
               <div className="col-lg-6">
                 <p className="text-xl">
-                  Nunc sollicitudin lacus tortor, sit amet commodo mi volutpat
-                  sit amet. Phasellus mattis pharetra porttitor. Praesent eget
-                  nibh massa.
+                  Unlock new opportunities for growth and engagement with
+                  Edvisors' tailored programs and expert guidance for the future
+                  of education.
                 </p>
               </div>
             </div>

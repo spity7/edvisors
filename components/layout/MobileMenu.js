@@ -114,7 +114,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         <i className="fi-rr-angle-small-down" />
                       </span> */}
 
-                      <Link href="#">About Us</Link>
+                      <Link href="/about">About Us</Link>
                       {/* <ul
                         className="sub-menu"
                         style={{
@@ -170,7 +170,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         <i className="fi-rr-angle-small-down" />
                       </span>
 
-                      <Link href="#">Services</Link>
+                      <Link href="/">Services</Link>
                       <ul
                         className="sub-menu"
                         style={{
@@ -251,7 +251,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         <i className="fi-rr-angle-small-down" />
                       </span> */}
 
-                      <Link href="#">Contact Us</Link>
+                      <Link href="/contact">Contact Us</Link>
                     </li>
                   </ul>
                 </nav>

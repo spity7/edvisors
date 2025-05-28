@@ -1352,7 +1352,7 @@ body {
   margin-left: 5px;
 }
 .btn.btn-brand-4-medium:hover {
-  background: #eceef2;
+  background: #7488ff;
 }
 .btn.btn-brand-4-sm {
   padding: 4px 21px;
@@ -3127,10 +3127,13 @@ label {
   padding: 0;
   float: left;
   width: 100%;
-  position: fixed;
+  border-bottom: 1px solid #191919;
+  /* background: linear-gradient(90deg, #b3bbff, #6c63ff); */
+  /* background: url(/_next/static/media/bg-award.84b76e86.png) no-repeat top left; */
+  /* position: fixed;
   top: 0px;
   left: 0px;
-  z-index: 123;
+  z-index: 123; */
 }
 .header.header-style-4 {
   padding-top: 0px;
@@ -3149,10 +3152,10 @@ label {
   justify-content: space-between;
 }
 .header .main-header .header-left .header-logo {
-  margin-right: 50px;
+  /* margin-right: 50px; */
 }
 .header .main-header .header-right {
-  width: 30%;
+  width: 20%;
   min-width: 245px;
   text-align: right;
   display: flex;
@@ -3182,7 +3185,7 @@ label {
   right: 0px;
 }
 .header .main-menu li.has-children > a:hover::after {
-  background: url(../imgs/template/icons/arrow-up-hover.svg) no-repeat center;
+  background: url(../imgs/template/icons/arrow-up-grey.svg) no-repeat center;
 }
 .header .main-menu li.hr {
   padding: 0px 22px;
@@ -3207,7 +3210,7 @@ label {
   position: relative;
 }
 .header .main-menu li a:hover {
-  color: #c5ff41;
+  color: #4033ff;
 }
 .header .main-menu li a i {
   font-size: 10px;
@@ -3374,7 +3377,8 @@ label {
   left: 0;
   transition: all 0.3s ease 0s;
   border-bottom: 1px solid #191919;
-  background: #2b2c2d;
+  /* background: linear-gradient(90deg, #b3bbff, #6c63ff); */
+  /* background: url(/_next/static/media/bg-award.84b76e86.png) no-repeat top left; */
 }
 .sticky-bar.stick .burger-icon {
   top: 15px;
@@ -8162,7 +8166,7 @@ a.icon-socials:hover {
 }
 
 .box-prepared-section {
-  padding: 105px 0px 124px 0px;
+  padding: 50px 0px 0px 0px;
 }
 
 .box-border-left-author {
