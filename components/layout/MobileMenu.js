@@ -170,7 +170,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         <i className="fi-rr-angle-small-down" />
                       </span>
 
-                      <Link href="/">Services</Link>
+                      <Link href="/service">Services</Link>
                       <ul
                         className="sub-menu"
                         style={{
@@ -178,7 +178,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         }}
                       >
                         <li>
-                          <Link href="/">EdTech Solutions</Link>
+                          <Link href="/edtech-solutions">EdTech Solutions</Link>
                         </li>
                         <li>
                           <Link href="/">AI Solutions</Link>
@@ -205,7 +205,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         <i className="fi-rr-angle-small-down" />
                       </span>
 
-                      <Link href="#">Programs</Link>
+                      <Link href="/programs">Programs</Link>
                       <ul
                         className="sub-menu"
                         style={{
@@ -213,7 +213,9 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         }}
                       >
                         <li>
-                          <Link href="/">Robotics & AI Curriculum</Link>
+                          <Link href="/robotics-and-ai-curriculum">
+                            Robotics & AI Curriculum
+                          </Link>
                         </li>
                         <li>
                           <Link href="/">

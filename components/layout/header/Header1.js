@@ -70,12 +70,12 @@ export default function Header1({
                       </Link>
                     </li>
                     <li className="has-children">
-                      <Link className="active fw-bold" href="/">
+                      <Link className="active fw-bold" href="/service">
                         Services
                       </Link>
                       <ul className="sub-menu">
                         <li>
-                          <Link href="/">EdTech Solutions</Link>
+                          <Link href="/edtech-solutions">EdTech Solutions</Link>
                         </li>
                         <li>
                           <Link href="/">AI Solutions</Link>
@@ -89,12 +89,14 @@ export default function Header1({
                       </ul>
                     </li>
                     <li className="has-children">
-                      <Link className="active fw-bold" href="/">
+                      <Link className="active fw-bold" href="/programs">
                         Programs
                       </Link>
                       <ul className="sub-menu">
                         <li>
-                          <Link href="/">Robotics & AI Curriculum</Link>
+                          <Link href="/robotics-and-ai-curriculum">
+                            Robotics & AI Curriculum
+                          </Link>
                         </li>
                         <li>
                           <Link href="/">Skills & Competences Curriculum</Link>

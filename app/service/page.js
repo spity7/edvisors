@@ -17,30 +17,30 @@ export default function Service() {
               <div className="row align-items-end justify-content-between">
                 <div className="col-lg-7 mb-30">
                   <h2 className="display-2 neutral-0">
-                    We know how to manage business globally
+                    Expertly Managing Business on a Global Scale
                   </h2>
                 </div>
                 <div className="col-lg-4 mb-30">
                   <h6 className="neutral-0">
-                    Do you have more question about our solution? Just send us a
-                    message for help
+                    Have questions about our services? Reach out — we're here to
+                    help.
                   </h6>
                 </div>
               </div>
               <div className="row mt-65">
-                <div className="col-lg-4 col-md-6">
+                <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/img.png"
+                        src="/assets/imgs/page/services/city-committed-education-collage-concept.jpg"
                         alt="Nivia"
                       />
                     </div>
                     <div className="card-info">
                       {" "}
                       <Link className="card-title" href="#">
-                        <h4>Business Solution</h4>
+                        <h4>EdTech Solutions</h4>
                         <svg
                           width={38}
                           height={38}
@@ -69,26 +69,27 @@ export default function Service() {
                       </Link>
                       <div className="card-desc">
                         <p className="text-md">
-                          Purus dui eget sollicitudin curae leo proin platea
-                          cras, morbi torquent massa
+                          Empowering schools and educators with tailored
+                          educational technology (EdTech) solutions that enhance
+                          teaching, learning, and school operations.
                         </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6">
+                <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/img2.png"
+                        src="/assets/imgs/page/services/human-robot-interaction-digital-world.jpg"
                         alt="Nivia"
                       />
                     </div>
                     <div className="card-info">
                       {" "}
                       <Link className="card-title" href="#">
-                        <h4>Business Solution</h4>
+                        <h4>AI Solutions</h4>
                         <svg
                           width={38}
                           height={38}
@@ -117,26 +118,27 @@ export default function Service() {
                       </Link>
                       <div className="card-desc">
                         <p className="text-md">
-                          Purus dui eget sollicitudin curae leo proin platea
-                          cras, morbi torquent massa
+                          Delivering cutting-edge Artificial Intelligence (AI)
+                          solutions tailored to the needs of educational
+                          institutions.
                         </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6">
+                <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/img3.png"
+                        src="/assets/imgs/page/services/istockphoto-487324538-612x612.jpg"
                         alt="Nivia"
                       />
                     </div>
                     <div className="card-info">
                       {" "}
                       <Link className="card-title" href="#">
-                        <h4>Business Solution</h4>
+                        <h4>Educational Consulting</h4>
                         <svg
                           width={38}
                           height={38}
@@ -165,26 +167,26 @@ export default function Service() {
                       </Link>
                       <div className="card-desc">
                         <p className="text-md">
-                          Purus dui eget sollicitudin curae leo proin platea
-                          cras, morbi torquent massa
+                          providing expert educational consulting services to
+                          help schools grow, innovate, and excel.
                         </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6">
+                <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/img4.png"
+                        src="/assets/imgs/page/services/Webinar-and-online-education-concept.jpg"
                         alt="Nivia"
                       />
                     </div>
                     <div className="card-info">
                       {" "}
                       <Link className="card-title" href="#">
-                        <h4>Business Solution</h4>
+                        <h4>Competitions & Webinars</h4>
                         <svg
                           width={38}
                           height={38}
@@ -213,14 +215,15 @@ export default function Service() {
                       </Link>
                       <div className="card-desc">
                         <p className="text-md">
-                          Purus dui eget sollicitudin curae leo proin platea
-                          cras, morbi torquent massa
+                          We bring students, educators, and thought leaders
+                          together to exchange ideas, showcase talents, and
+                          engage with global educational trends.
                         </p>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6">
+                {/* <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
@@ -268,7 +271,7 @@ export default function Service() {
                     </div>
                   </div>
                 </div>
-                <div className="col-lg-4 col-md-6">
+                <div className="col-lg-6 col-md-6">
                   <div className="card-we-know">
                     <div className="card-image">
                       {" "}
@@ -315,7 +318,7 @@ export default function Service() {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </section>
@@ -327,16 +330,16 @@ export default function Service() {
                   Why Should Your Choose Us?
                 </Link>
                 <h2 className="mt-15 mb-65">
-                  We know how to manage business globally
+                  Global Expertise, Tailored Business Solutions
                 </h2>
               </div>
               <div className="row">
                 <div className="col-lg-6">
                   <div className="box-info-casestudy">
                     <h3 className="mb-40">
-                      We bring solutions to make life
+                      We provide effective solutions
                       <br className="d-none d-lg-block" />
-                      easier for our clients.
+                      to simplify your business operations.
                     </h3>
                     <div className="row">
                       <div className="col-lg-12">
@@ -350,10 +353,9 @@ export default function Service() {
                           </div>
                           <div className="card-desc">
                             <p>
-                              Simple and cost effective to run high-performance
-                              queries on petabytes of semi-structured and
-                              structured data so that you can build powerful
-                              reports and dashboards.
+                              We thoroughly evaluate your needs to design
+                              strategic, scalable, and cost-effective solutions
+                              that align with your business goals.
                             </p>
                           </div>
                         </div>
@@ -363,15 +365,15 @@ export default function Service() {
                           <div className="card-title">
                             <h6>
                               {" "}
-                              <span className="number">2</span>Magic Touch
+                              <span className="number">2</span>Strategic
+                              Innovation
                             </h6>
                           </div>
                           <div className="card-desc">
                             <p>
-                              Simple and cost effective to run high-performance
-                              queries on petabytes of semi-structured and
-                              structured data so that you can build powerful
-                              reports and dashboards.
+                              With our creative touch and industry insights, we
+                              craft unique solutions that drive efficiency and
+                              innovation in your business.
                             </p>
                           </div>
                         </div>
@@ -381,15 +383,15 @@ export default function Service() {
                           <div className="card-title">
                             <h6>
                               {" "}
-                              <span className="number">3</span>Data Analysis
+                              <span className="number">3</span>Data-Driven
+                              Insights
                             </h6>
                           </div>
                           <div className="card-desc">
                             <p>
-                              Simple and cost effective to run high-performance
-                              queries on petabytes of semi-structured and
-                              structured data so that you can build powerful
-                              reports and dashboards.
+                              We harness the power of data to guide
+                              decision-making, optimize processes, and deliver
+                              measurable business impact.
                             </p>
                           </div>
                         </div>
@@ -469,7 +471,7 @@ export default function Service() {
               </div>
             </div>
           </section>
-          <section className="section-box wow animate__animated animate__fadeIn box-preparing-3">
+          {/* <section className="section-box wow animate__animated animate__fadeIn box-preparing-3">
             <div className="container">
               <div className="text-center">
                 <h2 className="neutral-0 mb-20">
@@ -739,8 +741,8 @@ export default function Service() {
                 </div>
               </div>
             </div>
-          </section>
-          <section className="section-box wow animate__animated animate__fadeIn box-our-track">
+          </section> */}
+          {/* <section className="section-box wow animate__animated animate__fadeIn box-our-track">
             <div className="container">
               <div className="row align-items-center">
                 <div className="col-lg-6 text-center mb-40">
@@ -840,8 +842,8 @@ export default function Service() {
                 </div>
               </div>
             </div>
-          </section>
-          <section className="section-box box-pricing-2 box-pricing-3">
+          </section> */}
+          {/* <section className="section-box box-pricing-2 box-pricing-3">
             <div className="container">
               <div className="text-center">
                 {" "}
@@ -1349,19 +1351,19 @@ export default function Service() {
                 </div>
               </div>
             </div>
-          </section>
+          </section> */}
           <section className="section-box wow animate__animated animate__fadeIn box-have-project">
             <div className="text-center">
               <h2 className="heading-1 mt-15 mb-20">
-                Have Any Project?
+                Have a Project in Mind?
                 <br className="d-none d-lg-block" />
-                Let’s Talk Grow your Business
+                Let’s Build Something Great Together
               </h2>
               <p className="text-lg neutral-500 mb-35">
                 We’r ready to help you. Our expert is here, just send a message.
               </p>
               <Link className="btn btn-brand-4" href="#">
-                Get started
+                Call Us
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width={22}
@@ -1377,7 +1379,7 @@ export default function Service() {
               </Link>
             </div>
           </section>
-          <section className="section-box wow animate__animated animate__fadeIn box-logos-2">
+          {/* <section className="section-box wow animate__animated animate__fadeIn box-logos-2">
             <div className="container">
               <div
                 className="carouselTickerLogos2 carouselTicker_vertical"
@@ -1386,7 +1388,7 @@ export default function Service() {
                 <LogoTicker />
               </div>
             </div>
-          </section>
+          </section> */}
         </div>
       </Layout>
     </>
