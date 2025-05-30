@@ -63,7 +63,9 @@ export default function JobDetails() {
                         Admin
                       </Link>
                     </p> */}
-                    <h3 className="mb-12 fw-bold fs-1">EdTech Solutions</h3>
+                    <h3 className="mb-12 fw-bold fs-1">
+                      Robotics & AI Curriculum
+                    </h3>
                     {/* <div className="box-button-tags">
                       <Link className="btn btn-tag-2" href="#">
                         Temporary
@@ -284,6 +286,7 @@ export default function JobDetails() {
                         <img
                           src="/assets/imgs/page/services/image-69.webp"
                           alt="Nivia"
+                          style={{ borderRadius: "20px" }}
                         />
                       </Link>
                     </div>

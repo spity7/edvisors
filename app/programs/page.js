@@ -33,7 +33,7 @@ export default function Service() {
                 <div className="col-lg-4 col-sm-6">
                   <div className="card-enjoy">
                     <div className="card-image">
-                      <Link href="#">
+                      <Link href="robotics-and-ai-curriculum">
                         <img
                           src="/assets/imgs/page/homepage5/ideas.png"
                           alt="Nivia"
@@ -41,7 +41,7 @@ export default function Service() {
                       </Link>
                     </div>
                     <div className="card-info">
-                      <Link href="#">
+                      <Link href="robotics-and-ai-curriculum">
                         <h5 className="heading-5">
                           1. Robotics & AI Curriculum:
                         </h5>
@@ -50,7 +50,10 @@ export default function Service() {
                         A future-ready program powered by Boxmind Academy,
                         designed for K–12 students.
                       </p>
-                      <Link className="btn btn-learmore" href="#">
+                      <Link
+                        className="btn btn-learmore"
+                        href="robotics-and-ai-curriculum"
+                      >
                         <svg
                           width={38}
                           height={38}
@@ -100,7 +103,7 @@ export default function Service() {
                 <div className="col-lg-4 col-sm-6">
                   <div className="card-enjoy">
                     <div className="card-image">
-                      <Link href="#">
+                      <Link href="skills-competences">
                         <img
                           src="/assets/imgs/page/homepage5/ideas.png"
                           alt="Nivia"
@@ -108,7 +111,7 @@ export default function Service() {
                       </Link>
                     </div>
                     <div className="card-info">
-                      <Link href="#">
+                      <Link href="skills-competences">
                         <h5 className="heading-5">
                           2. Skills & Competences Curriculum:
                         </h5>
@@ -118,7 +121,10 @@ export default function Service() {
                         essential soft skills, leadership traits, and emotional
                         intelligence required for future success.
                       </p>
-                      <Link className="btn btn-learmore" href="#">
+                      <Link
+                        className="btn btn-learmore"
+                        href="skills-competences"
+                      >
                         <svg
                           width={38}
                           height={38}
@@ -168,7 +174,7 @@ export default function Service() {
                 <div className="col-lg-4 col-sm-6">
                   <div className="card-enjoy">
                     <div className="card-image">
-                      <Link href="#">
+                      <Link href="esl-english-language">
                         <img
                           src="/assets/imgs/page/homepage5/ideas.png"
                           alt="Nivia"
@@ -176,7 +182,7 @@ export default function Service() {
                       </Link>
                     </div>
                     <div className="card-info">
-                      <Link href="#">
+                      <Link href="esl-english-language">
                         <h5 className="heading-5">
                           3. ESL English Language Curriculum:
                         </h5>
@@ -186,7 +192,10 @@ export default function Service() {
                         acquiring fluency, confidence, and cultural competence
                         in English.
                       </p>
-                      <Link className="btn btn-learmore" href="#">
+                      <Link
+                        className="btn btn-learmore"
+                        href="esl-english-language"
+                      >
                         <svg
                           width={38}
                           height={38}
@@ -1464,15 +1473,20 @@ export default function Service() {
           <section className="section-box wow animate__animated animate__fadeIn box-have-project">
             <div className="text-center">
               <h2 className="heading-1 mt-15 mb-20">
-                Have a Project in Mind?
+                Have an Idea to Transform Learning?
                 <br className="d-none d-lg-block" />
-                Let’s Build Something Great Together
+                Let’s Innovate Education Together
               </h2>
               <p className="text-lg neutral-500 mb-35">
-                We’r ready to help you. Our expert is here, just send a message.
+                Whether you're an educator, institution, or visionary — we’re
+                here to help you bring your educational ideas to life.{" "}
               </p>
-              <Link className="btn btn-brand-4" href="#">
-                Call Us
+              <Link
+                className="btn btn-brand-4"
+                href="https://wa.me/13138881754"
+                target="_blank"
+              >
+                Contact Our Team
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width={22}

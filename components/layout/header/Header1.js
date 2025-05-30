@@ -78,13 +78,17 @@ export default function Header1({
                           <Link href="/edtech-solutions">EdTech Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/">AI Solutions</Link>
+                          <Link href="/ai-solutions">AI Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/">Educational Consulting</Link>
+                          <Link href="/educational-consulting">
+                            Educational Consulting
+                          </Link>
                         </li>
                         <li>
-                          <Link href="/">Competitions & Webinars</Link>
+                          <Link href="/competitions-webinars">
+                            Competitions & Webinars
+                          </Link>
                         </li>
                       </ul>
                     </li>
@@ -99,10 +103,14 @@ export default function Header1({
                           </Link>
                         </li>
                         <li>
-                          <Link href="/">Skills & Competences Curriculum</Link>
+                          <Link href="/skills-competences">
+                            Skills & Competences Curriculum
+                          </Link>
                         </li>
                         <li>
-                          <Link href="/">ESL English Language Curriculum</Link>
+                          <Link href="/esl-english-language">
+                            ESL English Language Curriculum
+                          </Link>
                         </li>
                       </ul>
                     </li>

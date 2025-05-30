@@ -1,3 +1,4 @@
+"use client";
 import CounterUp from "@/components/elements/CounterUp";
 import Link from "next/link";
 
@@ -10,26 +11,34 @@ export default function Section7() {
             <div className="row">
               <div className="col-lg-6 mb-30">
                 <Link
-                  className="btn btn-border-brand-4 text-linear-3"
+                  className="btn btn-border-brand-4 text-linear-3 fw-bold"
                   href="/about"
+                  style={{
+                    transition: "transform 0.4s",
+                  }}
+                  onMouseEnter={(e) =>
+                    (e.currentTarget.style.transform = "scale(1.1)")
+                  }
+                  onMouseLeave={(e) =>
+                    (e.currentTarget.style.transform = "scale(1)")
+                  }
                 >
                   About Us
                 </Link>
                 <h3 className="heading-2 neutral-0 mt-20 mb-20">
-                  Empower Your Growth with Proven Digital Solutions
+                  Empowering Education with AI & EdTech Solutions
                 </h3>
                 <p className="text-lg neutral-200 mb-35">
-                  Since 2010, Edvisors has been building powerful digital
-                  experiences — from responsive websites to custom CRM tools —
-                  helping schools, real estate agencies, and nonprofits thrive
-                  online.
+                  Edvisors LLC is dedicated to revolutionizing education through
+                  innovative AI-powered solutions, cutting-edge curricula, and
+                  strategic consulting for institutions worldwide.
                 </p>
                 <div className="card-lead-list">
                   <div className="item-lead">
                     <div className="card-lead">
                       <div className="card-image">
                         <img
-                          src="/assets/imgs/page/homepage3/discover.svg"
+                          src="/assets/imgs/page/homepage3/digital.svg"
                           alt="Edvisors"
                         />
                       </div>
@@ -45,7 +54,7 @@ export default function Section7() {
                     <div className="card-lead">
                       <div className="card-image">
                         <img
-                          src="/assets/imgs/page/homepage3/discover.svg"
+                          src="/assets/imgs/page/homepage3/internet.svg"
                           alt="Edvisors"
                         />
                       </div>
@@ -57,10 +66,10 @@ export default function Section7() {
                   </div>
                 </div>
                 <p className="text-lg neutral-200">
-                  Whether you're looking to streamline your operations, engage
-                  your audience, or boost your brand, Edvisors brings two
-                  decades of expertise to every project. Let us transform your
-                  ideas into impact.
+                  From custom K-12 international curricula and robotics programs
+                  to smart EdTech platforms and accreditation services, we help
+                  schools, educators, and organizations harness the future of
+                  learning.
                 </p>
               </div>
               <div className="col-lg-6 mb-30 text-center text-lg-end">

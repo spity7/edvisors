@@ -51,10 +51,12 @@ export default function Footer4() {
                 />
               </Link>
               <div className="mt-20 mb-20">
-                <p className="text-md neutral-600 mb-10">United States</p>
-                <p className="text-md neutral-600">
-                  Hours: 8:00 - 17:00, Mon - Sat{" "}
+                <p className="text-md neutral-600 mb-10">
+                  Michigan, United States
                 </p>
+                {/* <p className="text-md neutral-600">
+                  Hours: 8:00 - 17:00, Mon - Sat{" "}
+                </p> */}
               </div>
             </div>
             <div className="col-lg-6 col-md-5 col-xs-6">
@@ -85,16 +87,20 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="#">EdTech Solutions</a>
+                      <a href="edtech-solutions">EdTech Solutions</a>
                     </li>
                     <li>
-                      <a href="#">AI Solutions</a>
+                      <a href="ai-solutions">AI Solutions</a>
                     </li>
                     <li>
-                      <a href="#">Educational Consulting</a>
+                      <a href="educational-consulting">
+                        Educational Consulting
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Competitions & Webinars</a>
+                      <a href="competitions-webinars">
+                        Competitions & Webinars
+                      </a>
                     </li>
                   </ul>
                 </div>
@@ -104,13 +110,19 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="#">Robotics & AI Curriculum</a>
+                      <a href="robotics-and-ai-curriculum">
+                        Robotics & AI Curriculum
+                      </a>
                     </li>
                     <li>
-                      <a href="#">Skills & Competences Curriculum</a>
+                      <a href="skills-competences">
+                        Skills & Competences Curriculum
+                      </a>
                     </li>
                     <li>
-                      <a href="#">ESL English Language Curriculum</a>
+                      <a href="esl-english-language">
+                        ESL English Language Curriculum
+                      </a>
                     </li>
                   </ul>
                 </div>

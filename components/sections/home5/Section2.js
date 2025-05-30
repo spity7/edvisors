@@ -13,7 +13,7 @@ export default function Section2() {
               <span className="text-background">
                 <span className="text-linear-3">Edvisors</span>
               </span>{" "}
-              and Services
+              Services
             </h2>
           </div>
           <div className="box-all-group-animate">
@@ -25,14 +25,17 @@ export default function Section2() {
                 <Marquee className="carouselTicker__list">
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="edtech-solutions">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/city-committed-education-collage-concept.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="edtech-solutions"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -89,14 +92,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="ai-solutions">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="ai-solutions"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -129,14 +135,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="educational-consulting">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="educational-consulting"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -162,14 +171,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="competitions-webinars">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/Webinar-and-online-education-concept.jpg"
+                          src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="competitions-webinars"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -233,14 +245,17 @@ export default function Section2() {
                 <Marquee direction="right" className="carouselTicker__list">
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="educational-consulting">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="educational-consulting"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -297,14 +312,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow border">
-                      <Link href="#">
+                      <Link href="competitions-webinars">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/Webinar-and-online-education-concept.jpg"
+                          src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="competitions-webinars"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -334,14 +352,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="edtech-solutions">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/city-committed-education-collage-concept.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="edtech-solutions"
+                        >
                           <span>
                             <svg
                               width={24}
@@ -363,14 +384,17 @@ export default function Section2() {
                   </li>
                   <li className="carouselTicker__item">
                     <div className="item-grow">
-                      <Link href="#">
+                      <Link href="ai-solutions">
                         <img
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
-                        <Link className="btn btn-border-linear" href="#">
+                        <Link
+                          className="btn btn-border-linear"
+                          href="ai-solutions"
+                        >
                           <span>
                             <svg
                               width={24}

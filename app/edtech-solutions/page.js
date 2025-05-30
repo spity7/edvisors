@@ -267,6 +267,7 @@ export default function JobDetails() {
                         <img
                           src="/assets/imgs/page/services/e-learning-education-networking-website-study-concept.jpg"
                           alt="Nivia"
+                          style={{ borderRadius: "20px" }}
                         />
                       </Link>
                     </div>

@@ -10,12 +10,12 @@ export default function Section3() {
               <div className="box-number-award">
                 <img alt="Nivia" src="/assets/imgs/page/homepage6/award.svg" />
                 <p className="display-2">
-                  +<CounterUp count={50} />
+                  +<CounterUp count={9} />
                 </p>
-                <h3 className="heading-3">Awards</h3>
+                <h3 className="heading-3">Clients</h3>
               </div>
               <h1 className="heading-1 neutral-0">
-                More than 30+ companies trusted Edvisors Platform
+                More than 9+ Clients trusted Edvisors Platform
               </h1>
             </div>
             <div className="col-lg-7 mb-40">

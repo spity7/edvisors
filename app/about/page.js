@@ -133,7 +133,7 @@ export default function About() {
                       src="/assets/imgs/page/about/img-about.png"
                       alt="Nivia"
                     />
-                    <VideoPopup />
+                    {/* <VideoPopup /> */}
                   </div>
                 </div>
               </div>
@@ -199,7 +199,7 @@ export default function About() {
           <section className="section-box box-why-trusted box-why-trusted-black">
             <div className="container">
               <div className="row align-items-end">
-                <div className="col-lg-4 mb-30">
+                <div className="col-lg-4 mb-30 text-linear-3">
                   <h2 className="text-32-bold">
                     See why we are
                     <br className="d-none d-lg-block" /> trusted the world over
@@ -393,7 +393,7 @@ export default function About() {
           >
             <div className="container">
               <div className="row align-items-center">
-                <div className="col-lg-6 text-center mb-40">
+                <div className="col-lg-6 text-center mb-40 box-image-rect box-image-rect-both">
                   <img
                     src="/assets/imgs/page/homepage1/freepik__adjust__62989.png"
                     alt="Nivia"

@@ -16,8 +16,8 @@ export default function Service() {
             <div className="container">
               <div className="row align-items-end justify-content-between">
                 <div className="col-lg-7 mb-30">
-                  <h2 className="display-2 neutral-0">
-                    Expertly Managing Business on a Global Scale
+                  <h2 className="display-2 neutral-0 fw-bold text-linear-3">
+                    Our Services
                   </h2>
                 </div>
                 <div className="col-lg-4 mb-30">
@@ -39,7 +39,7 @@ export default function Service() {
                     </div>
                     <div className="card-info">
                       {" "}
-                      <Link className="card-title" href="#">
+                      <Link className="card-title" href="edtech-solutions">
                         <h4>EdTech Solutions</h4>
                         <svg
                           width={38}
@@ -88,7 +88,7 @@ export default function Service() {
                     </div>
                     <div className="card-info">
                       {" "}
-                      <Link className="card-title" href="#">
+                      <Link className="card-title" href="ai-solutions">
                         <h4>AI Solutions</h4>
                         <svg
                           width={38}
@@ -137,7 +137,10 @@ export default function Service() {
                     </div>
                     <div className="card-info">
                       {" "}
-                      <Link className="card-title" href="#">
+                      <Link
+                        className="card-title"
+                        href="educational-consulting"
+                      >
                         <h4>Educational Consulting</h4>
                         <svg
                           width={38}
@@ -179,13 +182,13 @@ export default function Service() {
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/Webinar-and-online-education-concept.jpg"
+                        src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
                         alt="Nivia"
                       />
                     </div>
                     <div className="card-info">
                       {" "}
-                      <Link className="card-title" href="#">
+                      <Link className="card-title" href="competitions-webinars">
                         <h4>Competitions & Webinars</h4>
                         <svg
                           width={38}
@@ -330,16 +333,16 @@ export default function Service() {
                   Why Should Your Choose Us?
                 </Link>
                 <h2 className="mt-15 mb-65">
-                  Global Expertise, Tailored Business Solutions
+                  Global Expertise, Tailored Education Solutions
                 </h2>
               </div>
               <div className="row">
                 <div className="col-lg-6">
                   <div className="box-info-casestudy">
                     <h3 className="mb-40">
-                      We provide effective solutions
+                      Transforming Education Through
                       <br className="d-none d-lg-block" />
-                      to simplify your business operations.
+                      Purpose-Driven Solutions
                     </h3>
                     <div className="row">
                       <div className="col-lg-12">
@@ -347,15 +350,14 @@ export default function Service() {
                           <div className="card-title">
                             <h6>
                               {" "}
-                              <span className="number">1</span>Requirement
-                              Analysis
+                              <span className="number">1</span>Needs Assessment
                             </h6>
                           </div>
                           <div className="card-desc">
                             <p>
-                              We thoroughly evaluate your needs to design
-                              strategic, scalable, and cost-effective solutions
-                              that align with your business goals.
+                              We work closely with educators and institutions to
+                              understand challenges and define goals for
+                              tailored, impactful solutions.
                             </p>
                           </div>
                         </div>
@@ -365,15 +367,15 @@ export default function Service() {
                           <div className="card-title">
                             <h6>
                               {" "}
-                              <span className="number">2</span>Strategic
-                              Innovation
+                              <span className="number">2</span>Solution Design
                             </h6>
                           </div>
                           <div className="card-desc">
                             <p>
-                              With our creative touch and industry insights, we
-                              craft unique solutions that drive efficiency and
-                              innovation in your business.
+                              Leveraging educational best practices and
+                              innovative tech, we design tools and strategies
+                              that improve learning outcomes and streamline
+                              operations.
                             </p>
                           </div>
                         </div>
@@ -383,15 +385,14 @@ export default function Service() {
                           <div className="card-title">
                             <h6>
                               {" "}
-                              <span className="number">3</span>Data-Driven
-                              Insights
+                              <span className="number">3</span>Impact Evaluation
                             </h6>
                           </div>
                           <div className="card-desc">
                             <p>
-                              We harness the power of data to guide
-                              decision-making, optimize processes, and deliver
-                              measurable business impact.
+                              We monitor progress using real data and feedback
+                              to continuously refine solutions, ensuring
+                              long-term effectiveness and measurable success.
                             </p>
                           </div>
                         </div>
@@ -414,15 +415,15 @@ export default function Service() {
                   <div className="box-info-total-rate">
                     <div className="item-rate-total">
                       <div className="top-info-between">
-                        <h6 className="text-star">Business Development </h6>
-                        <span className="num-percen text-label">75%</span>
+                        <h6 className="text-star">Years of experience</h6>
+                        <span className="num-percen text-label">10+</span>
                       </div>
                       <div className="box-info-progress">
                         <div className="progress">
                           <div
                             className="progress-bar"
                             role="progressbar"
-                            style={{ width: "75%" }}
+                            style={{ width: "100%" }}
                             aria-valuenow={75}
                             aria-valuemin={0}
                             aria-valuemax={100}
@@ -432,15 +433,15 @@ export default function Service() {
                     </div>
                     <div className="item-rate-total">
                       <div className="top-info-between">
-                        <h6 className="text-star">Client Management</h6>
-                        <span className="num-percen text-label">82%</span>
+                        <h6 className="text-star">Countries Reached</h6>
+                        <span className="num-percen text-label">15+</span>
                       </div>
                       <div className="box-info-progress">
                         <div className="progress">
                           <div
                             className="progress-bar"
                             role="progressbar"
-                            style={{ width: "82%" }}
+                            style={{ width: "100%" }}
                             aria-valuenow={82}
                             aria-valuemin={0}
                             aria-valuemax={100}
@@ -450,15 +451,15 @@ export default function Service() {
                     </div>
                     <div className="item-rate-total">
                       <div className="top-info-between">
-                        <h6 className="text-star">Customer Satisfaction</h6>
-                        <span className="num-percen text-label">68%</span>
+                        <h6 className="text-star">Client satisfaction score</h6>
+                        <span className="num-percen text-label">98%</span>
                       </div>
                       <div className="box-info-progress">
                         <div className="progress">
                           <div
                             className="progress-bar"
                             role="progressbar"
-                            style={{ width: "68%" }}
+                            style={{ width: "98%" }}
                             aria-valuenow={68}
                             aria-valuemin={0}
                             aria-valuemax={100}
@@ -1355,15 +1356,20 @@ export default function Service() {
           <section className="section-box wow animate__animated animate__fadeIn box-have-project">
             <div className="text-center">
               <h2 className="heading-1 mt-15 mb-20">
-                Have a Project in Mind?
+                Have an Idea to Transform Learning?
                 <br className="d-none d-lg-block" />
-                Let’s Build Something Great Together
+                Let’s Innovate Education Together
               </h2>
               <p className="text-lg neutral-500 mb-35">
-                We’r ready to help you. Our expert is here, just send a message.
+                Whether you're an educator, institution, or visionary — we’re
+                here to help you bring your educational ideas to life.
               </p>
-              <Link className="btn btn-brand-4" href="#">
-                Call Us
+              <Link
+                className="btn btn-brand-4"
+                href="https://wa.me/13138881754"
+                target="_blank"
+              >
+                Contact Our Team
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width={22}

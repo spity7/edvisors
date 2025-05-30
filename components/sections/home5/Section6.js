@@ -43,8 +43,8 @@ export default function Section6() {
               Our Features
             </span>
             <h2 className="display-2 neutral-1000 mb-75">
-              Powerful analytics to help you
-              <br className="d-none d-lg-block" /> scale your app
+              Transforming Education Through
+              <br className="d-none d-lg-block" /> Innovation and Technology
             </h2>
           </div>
           <div className="row align-items-center">
@@ -54,10 +54,10 @@ export default function Section6() {
                   <img src="/assets/imgs/page/homepage6/safe.png" alt="Nivia" />
                 </div>
                 <div className="card-info">
-                  <h3>Absolute safety</h3>
+                  <h3>Expert Consulting</h3>
                   <p className="text-md">
-                    Your data and privacy are protected with industry-leading
-                    security protocols and best practices.
+                    Customized curriculum development and EdTech integration
+                    tailored to your educational needs.
                   </p>
                 </div>
               </div>
@@ -69,10 +69,10 @@ export default function Section6() {
                   />
                 </div>
                 <div className="card-info">
-                  <h3>Fast transaction</h3>
+                  <h3>K-12 International Curriculum</h3>
                   <p className="text-md">
-                    Experience seamless and instant transactions, ensuring
-                    efficiency and reliability every time.
+                    Skills-based curricula in English, French, and Arabic with
+                    proven learning outcomes.
                   </p>
                 </div>
               </div>
@@ -85,14 +85,18 @@ export default function Section6() {
                 />
                 <div className="img-sub-1 shape-1">
                   <img
-                    src="/assets/imgs/page/homepage6/qrcode.png"
+                    src="/assets/imgs/page/homepage6/programming-background-with-html-text.jpg"
                     alt="Nivia"
+                    width={113}
+                    style={{ borderRadius: "20px" }}
                   />
                 </div>
                 <div className="img-sub-2 shape-3">
                   <img
-                    src="/assets/imgs/page/homepage6/storage.png"
+                    src="/assets/imgs/page/homepage6/technology-innovation-photo.jpg"
                     alt="Nivia"
+                    width={113}
+                    style={{ borderRadius: "20px" }}
                   />
                 </div>
               </div>
@@ -106,10 +110,10 @@ export default function Section6() {
                   />
                 </div>
                 <div className="card-info">
-                  <h3>Great community</h3>
+                  <h3>Innovative EdTech Products</h3>
                   <p className="text-md">
-                    Join a vibrant community of innovators, educators, and
-                    learners collaborating for success.
+                    From AI-powered platforms to robotics kits and interactive
+                    learning tools.
                   </p>
                 </div>
               </div>
@@ -121,10 +125,10 @@ export default function Section6() {
                   />
                 </div>
                 <div className="card-info">
-                  <h3>Rapid development</h3>
+                  <h3>Professional Training</h3>
                   <p className="text-md">
-                    Accelerate your projects with our agile tools and expert
-                    support for fast, effective results.
+                    Upskill your team with targeted workshops and training in
+                    education technology and innovation.
                   </p>
                 </div>
               </div>

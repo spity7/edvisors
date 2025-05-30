@@ -27,9 +27,9 @@ export default function Section7() {
           <div className="box-faqs-inner">
             <div className="text-center">
               {" "}
-              <Link className="btn btn-brand-4-sm" href="#">
+              <span className="btn btn-brand-4-sm fw-bold">
                 Frequently Asked Questions
-              </Link>
+              </span>
               <h2 className="heading-2 mb-20 mt-20">
                 Do you have any questions?
               </h2>
@@ -57,8 +57,7 @@ export default function Section7() {
                       aria-expanded="false"
                       aria-controls="flush-collapseOne"
                     >
-                      What audiences can I target when creating my Facebook
-                      campaigns?
+                      What is Edvisors and who is it for?
                     </button>
                   </h2>
                   <div
@@ -73,13 +72,12 @@ export default function Section7() {
                   >
                     <div className="accordion-body">
                       <p>
-                        Discover what sets this apart as the market's easiest
-                        and most powerful video interviewing platform, and why
-                        hiring managers consistently choose us over the
-                        competition. Discover what sets this apart as the
-                        market's easiest and most powerful video interviewing
-                        platform, and why hiring managers consistently choose us
-                        over the competition
+                        Edvisors is a modern educational platform designed for
+                        students, educators, and institutions seeking
+                        innovative, tech-driven learning experiences. Whether
+                        you're looking to enhance your teaching, streamline
+                        administration, or access high-quality learning tools,
+                        Edvisors has something for you.
                       </p>
                     </div>
                   </div>
@@ -102,7 +100,7 @@ export default function Section7() {
                       aria-expanded="false"
                       aria-controls="flush-collapseTwo"
                     >
-                      Can you provide benchmarks for Facebook advertising costs?
+                      Do I need technical skills to use Edvisors tools?
                     </button>
                   </h2>
                   <div
@@ -116,12 +114,9 @@ export default function Section7() {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div className="accordion-body">
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                      Not at all. Edvisors is built to be user-friendly and
+                      intuitive. Our dashboard and tools are designed for easy
+                      navigation — no coding or advanced tech skills required.
                     </div>
                   </div>
                 </div>
@@ -143,7 +138,7 @@ export default function Section7() {
                       aria-expanded="false"
                       aria-controls="flush-collapseThree"
                     >
-                      Where will my Google Ads be shown?
+                      Can Edvisors support remote and hybrid learning?
                     </button>
                   </h2>
                   <div
@@ -157,12 +152,10 @@ export default function Section7() {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div className="accordion-body">
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                      Yes. Edvisors provides powerful features that support
+                      online, in-person, and hybrid learning environments —
+                      including real-time collaboration, progress tracking, and
+                      resource sharing.
                     </div>
                   </div>
                 </div>
@@ -184,7 +177,7 @@ export default function Section7() {
                       aria-expanded="false"
                       aria-controls="flush-collapseFour"
                     >
-                      Which keywords should I use for my Google Ads campaigns?
+                      How does Edvisors help improve learning outcomes?
                     </button>
                   </h2>
                   <div
@@ -198,12 +191,10 @@ export default function Section7() {
                     data-bs-parent="#accordionFAQS"
                   >
                     <div className="accordion-body">
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition.
-                      Discover what sets this apart as the market's easiest and
-                      most powerful video interviewing platform, and why hiring
-                      managers consistently choose us over the competition
+                      Through AI-driven insights, personalized feedback, and
+                      adaptive learning tools, Edvisors helps educators tailor
+                      their approach and students stay on track — leading to
+                      better engagement and improved results.
                     </div>
                   </div>
                 </div>

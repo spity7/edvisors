@@ -40,9 +40,12 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
           </div>
           <div className="mobile-header-top">
             <div className="user-account">
-              <img src="/assets/imgs/page/homepage6/author.png" alt="Nivia" />
+              {/* <img
+                src="/assets/imgs/template/Logo Edvisors - black.png"
+                alt="Nivia"
+              /> */}
               <div className="content">
-                <h6 className="user-name">Edvisors</h6>
+                <h6 className="user-name fw-bold fs-2">Edvisors</h6>
                 {/* <p className="font-xs text-muted">You have 4 new messages</p> */}
               </div>
             </div>
@@ -181,13 +184,17 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                           <Link href="/edtech-solutions">EdTech Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/">AI Solutions</Link>
+                          <Link href="/ai-solutions">AI Solutions</Link>
                         </li>
                         <li>
-                          <Link href="/">Educational Consulting</Link>
+                          <Link href="/educational-consulting">
+                            Educational Consulting
+                          </Link>
                         </li>
                         <li>
-                          <Link href="/">Competitions & Webinars</Link>
+                          <Link href="/competitions-webinars">
+                            Competitions & Webinars
+                          </Link>
                         </li>
                       </ul>
                     </li>
@@ -218,12 +225,14 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                           </Link>
                         </li>
                         <li>
-                          <Link href="/">
+                          <Link href="/skills-competences">
                             Skills & Competences Curriculum In
                           </Link>
                         </li>
                         <li>
-                          <Link href="/">ESL English Language Curriculum</Link>
+                          <Link href="/esl-english-language">
+                            ESL English Language Curriculum
+                          </Link>
                         </li>
                         {/* <li>
                           <Link href="/term-conditions">Terms conditions</Link>

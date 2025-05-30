@@ -52,17 +52,6 @@ export default function Contact() {
                       <div className="col-lg-12">
                         <div className="card-feature-2">
                           <div className="card-image">
-                            <img src="/assets/imgs/page/homepage3/marketing.svg" />
-                          </div>
-                          <div className="card-info">
-                            <h3 className="text-22-bold">Address</h3>
-                            <p className="text-md neutral-700">United States</p>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-lg-12">
-                        <div className="card-feature-2">
-                          <div className="card-image">
                             <img src="/assets/imgs/page/homepage3/digital.svg" />
                           </div>
                           <div className="card-info">
@@ -95,7 +84,7 @@ export default function Contact() {
                       <div className="col-lg-12">
                         <div className="card-feature-2">
                           <div className="card-image">
-                            <img src="/assets/imgs/page/homepage3/digital.svg" />
+                            <img src="/assets/imgs/page/homepage3/social.svg" />
                           </div>
                           <div className="card-info">
                             <h3 className="text-22-bold">Email</h3>
@@ -122,6 +111,19 @@ export default function Contact() {
                           </div>
                         </div>
                       </div>
+                      <div className="col-lg-12">
+                        <div className="card-feature-2">
+                          <div className="card-image">
+                            <img src="/assets/imgs/page/homepage3/internet.svg" />
+                          </div>
+                          <div className="card-info">
+                            <h3 className="text-22-bold">Address</h3>
+                            <p className="text-md neutral-700">
+                              Michigan, United States
+                            </p>
+                          </div>
+                        </div>
+                      </div>
                     </div>
                   </div>
                   <div className="col-lg-6 text-center">
@@ -138,7 +140,7 @@ export default function Contact() {
                   <div className="block-map">
                     <div className="box-map">
                       <iframe
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12648752.462915225!2d-120.6977092!3d37.2758573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d4560993cb%3A0x254d97d0d9d7bc1!2sUnited%20States!5e0!3m2!1sen!2sus!4v1716898800000!5m2!1sen!2sus"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11453964.633746002!2d-90.3207068!3d44.1822051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8824ca0125c1e421%3A0x35f48943b67a8126!2sMichigan%2C%20USA!5e0!3m2!1sen!2sus!4v1717171717171!5m2!1sen!2sus"
                         width={600}
                         height={450}
                         style={{ border: 0 }}
@@ -147,9 +149,9 @@ export default function Contact() {
                         referrerPolicy="no-referrer-when-downgrade"
                       />
                     </div>
-                    <p className="text-md neutral-600 text-center">
+                    {/* <p className="text-md neutral-600 text-center">
                       Hours: 8:00 - 17:00, Mon - Sat{" "}
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div className="col-lg-6 mb-30">
