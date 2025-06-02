@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Autoplay, Navigation, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Layout from "@/components/layout/Layout";
+import { FaExternalLinkAlt } from "react-icons/fa";
 
 const swiperOptions = {
   modules: [Autoplay, Pagination, Navigation],
@@ -57,12 +58,25 @@ export default function JobDetails() {
               <div className="row">
                 <div className="col-lg-9 order-lg-last">
                   <div className="head-detail">
-                    {/* <p className="text-md neutral-500 mb-12">
-                      24 October 2023, by
-                      <Link className="text-md-bold neutral-1000" href="#">
-                        Admin
-                      </Link>
-                    </p> */}
+                    <p className="text-md neutral-500 mb-20 fs-5 fw-bold">
+                      🚀 Check Our Robotics Website:{" "}
+                      <a
+                        href="https://boxmindacademy.ai/"
+                        target="_blank"
+                        style={{
+                          background:
+                            "url(/_next/static/media/bg-award.84b76e86.png) no-repeat top right",
+                          backgroundSize: "cover",
+                          WebkitBackgroundClip: "text",
+                          WebkitTextFillColor: "transparent",
+                        }}
+                      >
+                        boxmindacademy.ai{" "}
+                        <FaExternalLinkAlt
+                          style={{ display: "inline", marginLeft: "5px" }}
+                        />
+                      </a>
+                    </p>
                     <h3 className="mb-12 fw-bold fs-1">
                       Robotics & AI Curriculum
                     </h3>

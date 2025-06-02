@@ -17,7 +17,7 @@ export default function Section4() {
             </div>
             <div className="col-lg-5 mb-30">
               <h5 className="heading-5 neutral-700">
-                Take your online presence to the next level.
+                Take your curriculum to another level
               </h5>
             </div>
           </div>

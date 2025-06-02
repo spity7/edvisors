@@ -9,8 +9,8 @@ export default function Footer4() {
             <div className="newsletter-left">
               <h2>Join our community</h2>
               <p className="text-md neutral-600">
-                Work smarter with this time management and not hard join our
-                newsletter for a better expertrience
+                Work smarter with effective time management — enhance your
+                experience with Edvisors.
               </p>
             </div>
             <div className="newsletter-right">

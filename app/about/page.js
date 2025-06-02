@@ -248,8 +248,8 @@ export default function About() {
                 </div>
                 <div className="col-lg-6 mb-30">
                   <h6 className="neutral-500">
-                    Since 2010 we’ve been working with amazing organisations to
-                    create meaningful impact and compelling experiences.
+                    We’ve been working with amazing organisations to create
+                    meaningful impact and compelling experiences.
                   </h6>
                 </div>
               </div>

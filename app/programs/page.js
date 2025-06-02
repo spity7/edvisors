@@ -440,12 +440,12 @@ export default function Service() {
               </div>
             </div>
           </section>
-          <section className="section-box wow animate__animated animate__fadeIn box-why-choose-us mt-40">
+          {/* <section className="section-box wow animate__animated animate__fadeIn box-why-choose-us mt-40">
             <div className="container">
               <div className="text-center">
                 {" "}
                 <Link className="btn btn-tag-black" href="#">
-                  Why Should Your Choose Us?
+                  Why Should You Choose Us?
                 </Link>
                 <h2 className="mt-15 mb-65">
                   Global Expertise, Tailored Business Solutions
@@ -588,7 +588,7 @@ export default function Service() {
                 </div>
               </div>
             </div>
-          </section>
+          </section> */}
           {/* <section className="section-box wow animate__animated animate__fadeIn box-preparing-3">
             <div className="container">
               <div className="text-center">

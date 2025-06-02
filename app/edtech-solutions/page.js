@@ -46,7 +46,7 @@ export default function JobDetails() {
         <div className="section-box box-banner-job">
           <img
             className="w-100"
-            src="/assets/imgs/page/services/city-committed-education-collage-concept.jpg"
+            src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
             alt="Nivia"
           />
         </div>

@@ -28,7 +28,7 @@ export default function Section2() {
                       <Link href="edtech-solutions">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/city-committed-education-collage-concept.jpg"
+                          src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -95,7 +95,7 @@ export default function Section2() {
                       <Link href="ai-solutions">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world.jpg"
+                          src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -138,7 +138,7 @@ export default function Section2() {
                       <Link href="educational-consulting">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation.jpg"
+                          src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -174,7 +174,7 @@ export default function Section2() {
                       <Link href="competitions-webinars">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
+                          src="/assets/imgs/page/services/istockphoto-2064008759-612x612.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -248,7 +248,7 @@ export default function Section2() {
                       <Link href="educational-consulting">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation.jpg"
+                          src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -315,7 +315,7 @@ export default function Section2() {
                       <Link href="competitions-webinars">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
+                          src="/assets/imgs/page/services/istockphoto-2064008759-612x612.jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -355,7 +355,7 @@ export default function Section2() {
                       <Link href="edtech-solutions">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/city-committed-education-collage-concept.jpg"
+                          src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">
@@ -387,7 +387,7 @@ export default function Section2() {
                       <Link href="ai-solutions">
                         <img
                           alt="Nivia"
-                          src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world.jpg"
+                          src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world (1).jpg"
                         />
                       </Link>
                       <div className="button-view-more">

@@ -33,7 +33,7 @@ export default function Service() {
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/city-committed-education-collage-concept.jpg"
+                        src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
                         alt="Nivia"
                       />
                     </div>
@@ -82,7 +82,7 @@ export default function Service() {
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/services/human-robot-interaction-digital-world.jpg"
+                        src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world (1).jpg"
                         alt="Nivia"
                       />
                     </div>
@@ -182,7 +182,7 @@ export default function Service() {
                     <div className="card-image">
                       {" "}
                       <img
-                        src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612.jpg"
+                        src="/assets/imgs/page/homepage6/istockphoto-2064008759-612x612 (1).jpg"
                         alt="Nivia"
                       />
                     </div>
@@ -330,7 +330,7 @@ export default function Service() {
               <div className="text-center">
                 {" "}
                 <Link className="btn btn-tag-black" href="#">
-                  Why Should Your Choose Us?
+                  Why Should You Choose Us?
                 </Link>
                 <h2 className="mt-15 mb-65">
                   Global Expertise, Tailored Education Solutions

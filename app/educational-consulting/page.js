@@ -46,7 +46,7 @@ export default function JobDetails() {
         <div className="section-box box-banner-job">
           <img
             className="w-100"
-            src="/assets/imgs/page/services/sitting-writing-women-brainstorming-subject-participation.jpg"
+            src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation (1).jpg"
             alt="Nivia"
           />
         </div>

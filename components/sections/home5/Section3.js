@@ -10,12 +10,12 @@ export default function Section3() {
               <div className="box-number-award">
                 <img alt="Nivia" src="/assets/imgs/page/homepage6/award.svg" />
                 <p className="display-2">
-                  +<CounterUp count={9} />
+                  +<CounterUp count={15} />
                 </p>
-                <h3 className="heading-3">Clients</h3>
+                <h3 className="heading-3">Countries</h3>
               </div>
               <h1 className="heading-1 neutral-0">
-                More than 9+ Clients trusted Edvisors Platform
+                Trusted by users in more than 15 countries globally.
               </h1>
             </div>
             <div className="col-lg-7 mb-40">
@@ -31,32 +31,52 @@ export default function Section3() {
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/glossy.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Lebanon.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/ipsum.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_the_United_States_(1896–1908).svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/leafe.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Ghana.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/pinpoint.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_France_(1976–2020).svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
@@ -103,32 +123,54 @@ export default function Section3() {
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/sitemark.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_the_United_Kingdom_(3-5).svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/pinpoint.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_the_United_Arab_Emirates.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                                border: "1px solid #aaa",
+                                borderRadius: "5px",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/sitemark.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Iraq.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/pinpoint.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Qatar.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
@@ -174,32 +216,52 @@ export default function Section3() {
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/ipsum.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Italy_(WFB_2013).gif"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/glossy.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Saudi_Arabia.svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/leafe.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_Canada_(official_government_version).svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
-                              src="/assets/imgs/page/homepage6/pinpoint.png"
+                              src="/assets/imgs/page/homepage6/Flag_of_the_People's_Republic_of_China_(alternate).svg.png"
                               alt="Nivia"
+                              style={{
+                                width: "100%",
+                                height: "120%",
+                                objectFit: "contain",
+                              }}
                             />
                           </div>
                         </li>
