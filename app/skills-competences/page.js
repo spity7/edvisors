@@ -83,12 +83,16 @@ export default function JobDetails() {
                       <span>1</span>Overview
                     </div>
                     <p>
-                      At Edvisors, we believe that 21st-century learners need
-                      more than academic knowledge—they need a well-rounded set
-                      of skills and personal competencies. Our Skills &
-                      Competences Curriculum fosters the essential soft skills,
-                      leadership traits, and emotional intelligence required for
-                      future success.
+                      At Edvisors, we believe that future-ready education goes
+                      beyond academic knowledge. In today’s interconnected and
+                      fast-changing world, students must develop a well-rounded
+                      foundation of skills, values, and global perspectives.
+                    </p>
+                    <p>
+                      The Global Life Competencies Curriculum empowers learners
+                      from Grades 1–12 to lead with empathy, think critically,
+                      act responsibly, and contribute meaningfully—both locally
+                      and globally.
                     </p>
                     {/* <p>
                       Sed ut perspiciatis unde omnis iste natus error sit
@@ -99,7 +103,7 @@ export default function JobDetails() {
                       odit aut fugit,
                     </p> */}
                     <div className="title-with-number">
-                      <span>2</span>Program Highlights:
+                      <span>2</span> Core Life Competency Domains:
                     </div>
                     <ul>
                       <li>Collaboration & Communication.</li>
@@ -121,17 +125,26 @@ export default function JobDetails() {
                       </li> */}
                     </ul>
                     <div className="title-with-number">
-                      <span>3</span>Learning Objectives:
+                      <span>3</span>What Students Learn:
                     </div>
                     <ul>
+                      <li>Build resilience, empathy, and self-awareness.</li>
                       <li>
-                        Cultivate resilience, empathy, and self-awareness.
+                        Strengthen interpersonal, teamwork, and leadership
+                        skills .
                       </li>
-                      <li>Develop interpersonal and leadership skills.</li>
                       <li>
-                        Practice responsible decision-making and goal setting.
+                        Practice goal setting, decision-making, and stress
+                        regulation.
                       </li>
-                      <li>Build digital citizenship and ethical thinking.</li>
+                      <li>
+                        Develop digital literacy, media awareness, and ethical
+                        reasoning .
+                      </li>
+                      <li>
+                        Embrace diversity, intercultural competence, and global
+                        responsibility
+                      </li>
                       {/* <li>
                         Experience effectively presenting and communicating your
                         design decisions to clients and team members
@@ -142,26 +155,45 @@ export default function JobDetails() {
                       </li> */}
                     </ul>
                     <div className="title-with-number">
-                      <span>4</span>Curriculum Modules (Sample Topics):
+                      <span>4</span>Sample Curriculum Modules:
                     </div>
                     <ul>
-                      <li>Teamwork & Peer Feedback.</li>
-                      <li>Decision-Making Under Pressure.</li>
-                      <li>Time Management & Goal Setting.</li>
-                      <li>Ethical Dilemmas in the Digital Age</li>
-                      <li>Cross-Cultural Communication</li>
+                      <li> Digital Wellness & Screen Time Balance .</li>
+                      <li>Creative Problem Solving & Systems Thinking.</li>
+                      <li>Media Literacy & Algorithmic Awareness.</li>
+                      <li>Cross-Cultural Communication & Empathy.</li>
+                      <li>Civic Engagement & Sustainable Action.</li>
+                      <li>Self-Management & Stress Regulation.</li>
                       {/* <li>Unlimited paid vacation and paid company holidays</li>
                       <li>Monthly wellness/gym stipend</li> */}
                     </ul>
                     <div className="title-with-number">
-                      <span>5</span>Program Structure:
+                      <span>5</span>How It Works:
                     </div>
                     <ul>
                       <li>
-                        This program is designed for Grades 1–12 and is
-                        integrated progressively across grade levels. Lessons
-                        are interactive, reflective, and centered around
-                        real-world scenarios and student-led projects.
+                        <b className="fw-bold">📚 Grades 1–12:</b> A
+                        progressive, spiraled framework with increasing depth
+                        across grade levels.
+                      </li>
+                      <li>
+                        <b className="fw-bold">🧠 Competency-Based:</b> Skills,
+                        knowledge, and attitudes are developed in an integrated
+                        way.
+                      </li>
+                      <li>
+                        <b className="fw-bold">🎯 Student-Centered:</b> Inquiry,
+                        collaboration, and real-life application drive
+                        engagement.
+                      </li>
+                      <li>
+                        <b className="fw-bold">🌐 Globally Aligned:</b> Meets
+                        international life skills and SEL benchmarks.
+                      </li>
+                      <li>
+                        <b className="fw-bold">📝 Printable & Visual:</b>{" "}
+                        Delivered through structured, illustrated student books
+                        (1 session/week × 35 sessions/year).
                       </li>
                       {/* <li>
                         Middle (Grades 6–8): Intermediate robotics, AI basics,
@@ -197,15 +229,201 @@ export default function JobDetails() {
                 </div>
                 <div className="col-lg-3 order-lg-first">
                   <div className="sidebar">
-                    <div className="box-sidebar-rounded">
+                    <div className="box-sidebar-rounded mb-20">
                       <div className="sidebar-head">
-                        <h6>Why This Curriculum Matters</h6>
+                        <h6>📊 Proven Impact</h6>
                       </div>
                       <div className="sidebar-content">
-                        Incorporating a skills and competencies-based curriculum
-                        improves student performance, strengthens
-                        social-emotional development, and prepares students to
-                        adapt in a rapidly evolving world.
+                        <ul>
+                          <li className="mb-10">
+                            🧩 <b className="fw-bold">420 sessions</b> across 12
+                            years (35 per grade).
+                          </li>
+                          <li className="mb-10">
+                            🎯 Covers{" "}
+                            <b className="fw-bold">
+                              18 globally benchmarked core competencies.
+                            </b>
+                          </li>
+                          <li className="mb-10">
+                            🌍 Validated across cultures; adaptable to local
+                            education systems.
+                          </li>
+                          <li className="mb-10">
+                            📈 Supports{" "}
+                            <b className="fw-bold">
+                              portfolio-based competency tracking and
+                              self-reflection.
+                            </b>
+                          </li>
+                        </ul>
+                        {/* <div className="item-line">
+                          <div className="text-date-post text-16-bold">
+                            Date Posted:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            Posted 1 hours ago
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-date-expire text-16-bold">
+                            Expiration date:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            April 06, 2021
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-location text-16-bold">
+                            Location:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            London, UK
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-salary text-16-bold">Salary</div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            $35k - $45k
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-date-post text-16-bold">
+                            Date Posted:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            Posted 1 hours ago
+                          </p>
+                        </div>
+                        <div className="box-button-sidebar">
+                          {" "}
+                          <Link className="btn btn-black btn-rounded" href="#">
+                            Apply For Job
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width={22}
+                              height={8}
+                              viewBox="0 0 22 8"
+                              fill="none"
+                            >
+                              <path
+                                d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z"
+                                fill="true"
+                              />
+                            </svg>
+                          </Link>
+                        </div> */}
+                      </div>
+                    </div>
+                    <div className="box-sidebar-rounded mb-20">
+                      <div className="sidebar-head">
+                        <h6>🤝 Implementation Support</h6>
+                      </div>
+                      <div className="sidebar-content">
+                        We provide robust support to ensure quality delivery at
+                        scale:
+                        <ul className="mt-10">
+                          <li className="mb-10">
+                            📋 <b className="fw-bold">Teacher training</b> and
+                            detailed facilitation guides.
+                          </li>
+                          <li className="mb-10">
+                            🎨{" "}
+                            <b className="fw-bold">
+                              Professional design standards
+                            </b>{" "}
+                            for consistency across sessions.
+                          </li>
+                          <li className="mb-10">
+                            🌐 <b className="fw-bold">Localization services</b>{" "}
+                            for cultural adaptation and deployment.
+                          </li>
+                        </ul>
+                        {/* <div className="item-line">
+                          <div className="text-date-post text-16-bold">
+                            Date Posted:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            Posted 1 hours ago
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-date-expire text-16-bold">
+                            Expiration date:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            April 06, 2021
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-location text-16-bold">
+                            Location:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            London, UK
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-salary text-16-bold">Salary</div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            $35k - $45k
+                          </p>
+                        </div>
+                        <div className="item-line">
+                          <div className="text-date-post text-16-bold">
+                            Date Posted:
+                          </div>
+                          <p className="text-date-post-value text-md neutral-500">
+                            Posted 1 hours ago
+                          </p>
+                        </div>
+                        <div className="box-button-sidebar">
+                          {" "}
+                          <Link className="btn btn-black btn-rounded" href="#">
+                            Apply For Job
+                            <svg
+                              xmlns="http://www.w3.org/2000/svg"
+                              width={22}
+                              height={8}
+                              viewBox="0 0 22 8"
+                              fill="none"
+                            >
+                              <path
+                                d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z"
+                                fill="true"
+                              />
+                            </svg>
+                          </Link>
+                        </div> */}
+                      </div>
+                    </div>
+                    <div className="box-sidebar-rounded mb-20">
+                      <div className="sidebar-head">
+                        <h6>✨ Why It Matters</h6>
+                      </div>
+                      <div className="sidebar-content">
+                        <p>
+                          In a world shaped by{" "}
+                          <b className="fw-bold">
+                            automation, information overload
+                          </b>
+                          , and <b className="fw-bold">cultural complexity</b>,
+                          academic skills are no longer enough.
+                        </p>
+                        <p className="mt-10 mb-10">
+                          Today’s learners must also be:
+                        </p>
+                        <ul>
+                          <li className="mb-10 fw-bold">
+                            📚 Empathetic collaborators
+                          </li>
+                          <li className="mb-10 fw-bold">
+                            🧠 Resilient self-managers
+                          </li>
+                          <li className="mb-10 fw-bold">
+                            🧩 Ethical decision-makers
+                          </li>
+                        </ul>
                         {/* <div className="item-line">
                           <div className="text-date-post text-16-bold">
                             Date Posted:
