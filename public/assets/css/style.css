@@ -10354,3 +10354,9 @@ a.icon-socials:hover {
     display: none;
   }
 } /*# sourceMappingURL=style.css.map */
+
+@media (max-width:450){
+  .flag-icon{
+    max-width: 80px !important;
+  }
+}

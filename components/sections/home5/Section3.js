@@ -31,12 +31,14 @@ export default function Section3() {
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
+                              className="flag-img"
                               src="/assets/imgs/page/homepage6/Flag_of_Lebanon.svg.png"
                               alt="Nivia"
                               style={{
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -44,12 +46,14 @@ export default function Section3() {
                         <li className="carouselTicker__item">
                           <div className="item-logo-2">
                             <img
+                              className="flag-img"
                               src="/assets/imgs/page/homepage6/Flag_of_the_United_States_(1896–1908).svg.png"
                               alt="Nivia"
                               style={{
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -63,6 +67,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -76,6 +81,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -129,6 +135,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -144,6 +151,7 @@ export default function Section3() {
                                 objectFit: "contain",
                                 border: "1px solid #aaa",
                                 borderRadius: "5px",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -157,6 +165,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -170,6 +179,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -222,6 +232,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -235,6 +246,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -248,6 +260,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
@@ -261,6 +274,7 @@ export default function Section3() {
                                 width: "100%",
                                 height: "120%",
                                 objectFit: "contain",
+                                maxWidth: "90px",
                               }}
                             />
                           </div>
