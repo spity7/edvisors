@@ -6127,7 +6127,7 @@ a.icon-socials:hover {
   border-radius: 20px;
   margin-bottom: 30px;
   height: 100%;
-  line-height: 36px;
+  /* line-height: 36px; */
 }
 
 .box-all-in-one {
@@ -9970,7 +9970,7 @@ a.icon-socials:hover {
     padding: 10px 5px;
     border-radius: 14px;
     height: 100%;
-    line-height: 34px;
+    /* line-height: 34px; */
   }
   .carouselTicker3.carouselTicker_vertical .carouselTicker__item,
   .carouselTicker4.carouselTicker_vertical .carouselTicker__item,
@@ -10354,3 +10354,21 @@ a.icon-socials:hover {
     display: none;
   }
 } /*# sourceMappingURL=style.css.map */
+
+/* iPhone-specific override */
+@supports (-webkit-touch-callout: none) {
+  .item-logo-2 img {
+    margin-top: -40px;
+  }
+}
+
+.img-services {
+  max-width: 500px;
+}
+
+/* iPhone-specific override */
+@supports (-webkit-touch-callout: none) {
+  .img-services {
+    max-width: 380px;
+  }
+}

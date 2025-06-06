@@ -27,7 +27,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="edtech-solutions">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
                         />
@@ -95,7 +96,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="ai-solutions">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world (1).jpg"
                         />
@@ -139,7 +141,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="educational-consulting">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation (1).jpg"
                         />
@@ -176,7 +179,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="competitions-webinars">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/services/istockphoto-2064008759-612x612.jpg"
                         />
@@ -251,7 +255,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="educational-consulting">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/sitting-writing-women-brainstorming-subject-participation (1).jpg"
                         />
@@ -319,7 +324,8 @@ export default function Section2() {
                     <div className="item-grow border">
                       <Link href="competitions-webinars">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/services/istockphoto-2064008759-612x612.jpg"
                         />
@@ -360,7 +366,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="edtech-solutions">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/city-committed-education-collage-concept (1).jpg"
                         />
@@ -393,7 +400,8 @@ export default function Section2() {
                     <div className="item-grow">
                       <Link href="ai-solutions">
                         <img
-                          style={{ maxWidth: 500 }}
+                          className="img-services"
+                          // style={{ maxWidth: 500 }}
                           alt="Nivia"
                           src="/assets/imgs/page/homepage6/human-robot-interaction-digital-world (1).jpg"
                         />

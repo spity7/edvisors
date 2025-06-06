@@ -36,10 +36,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -52,10 +51,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -67,10 +65,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -82,10 +79,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -137,10 +133,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -152,12 +147,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
-                                border: "1px solid #aaa",
-                                borderRadius: "5px",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -169,10 +161,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -184,10 +175,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -238,10 +228,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -253,10 +242,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -268,10 +256,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
@@ -283,10 +270,9 @@ export default function Section3() {
                               alt="Nivia"
                               style={{
                                 width: "100%",
-                                // height: "120%",
+                                height: "120%",
                                 objectFit: "contain",
                                 maxWidth: "90px",
-                                maxHeight: "43px",
                               }}
                             />
                           </div>
