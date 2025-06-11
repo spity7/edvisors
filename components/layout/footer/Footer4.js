@@ -67,16 +67,16 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="#">Company</a>
+                      <Link href="#">Company</Link>
                     </li>
                     <li>
-                      <a href="#">Careers</a>
+                      <Link href="#">Careers</Link>
                     </li>
                     <li>
-                      <a href="#">Press media</a>
+                      <Link href="#">Press media</Link>
                     </li>
                     <li>
-                      <a href="#">History</a>
+                      <Link href="#">History</Link>
                     </li>
                   </ul>
                 </div> */}
@@ -87,20 +87,20 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="/edtech-solutions">EdTech Solutions</a>
+                      <Link href="/edtech-solutions">EdTech Solutions</Link>
                     </li>
                     <li>
-                      <a href="/ai-solutions">AI Solutions</a>
+                      <Link href="/ai-solutions">AI Solutions</Link>
                     </li>
                     <li>
-                      <a href="/educational-consulting">
+                      <Link href="/educational-consulting">
                         Educational Consulting
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="/competitions-webinars">
+                      <Link href="/competitions-webinars">
                         Competitions & Webinars
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -110,19 +110,19 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="/robotics-and-ai-curriculum">
+                      <Link href="/robotics-and-ai-curriculum">
                         Robotics & AI Curriculum
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="/skills-competences">
+                      <Link href="/skills-competences">
                         Global Life Competencies Curriculum
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a href="/esl-english-language">
+                      <Link href="/esl-english-language">
                         ESL English Language Curriculum
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -132,13 +132,13 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="#">Forum Support</a>
+                      <Link href="#">Forum Support</Link>
                     </li>
                     <li>
-                      <a href="#">Help FAQ</a>
+                      <Link href="#">Help FAQ</Link>
                     </li>
                     <li>
-                      <a href="#">Contact Us</a>
+                      <Link href="#">Contact Us</Link>
                     </li>
                   </ul>
                 </div> */}
