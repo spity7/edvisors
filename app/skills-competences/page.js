@@ -64,7 +64,7 @@ export default function JobDetails() {
                       </Link>
                     </p> */}
                     <h3 className="mb-12 fw-bold fs-1">
-                      Skills & Competences Curriculum
+                      Global Life Competencies Curriculum
                     </h3>
                     {/* <div className="box-button-tags">
                       <Link className="btn btn-tag-2" href="#">

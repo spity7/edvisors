@@ -33,7 +33,7 @@ export default function Service() {
                 <div className="col-lg-4 col-sm-6">
                   <div className="card-enjoy">
                     <div className="card-image">
-                      <Link href="robotics-and-ai-curriculum">
+                      <Link href="/robotics-and-ai-curriculum">
                         <img
                           src="/assets/imgs/page/homepage5/ideas.png"
                           alt="Nivia"
@@ -41,7 +41,7 @@ export default function Service() {
                       </Link>
                     </div>
                     <div className="card-info">
-                      <Link href="robotics-and-ai-curriculum">
+                      <Link href="/robotics-and-ai-curriculum">
                         <h5 className="heading-5">
                           1. Robotics & AI Curriculum:
                         </h5>
@@ -52,7 +52,7 @@ export default function Service() {
                       </p>
                       <Link
                         className="btn btn-learmore"
-                        href="robotics-and-ai-curriculum"
+                        href="/robotics-and-ai-curriculum"
                       >
                         <svg
                           width={38}

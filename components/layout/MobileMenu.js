@@ -226,7 +226,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                         </li>
                         <li>
                           <Link href="/skills-competences">
-                            Skills & Competences Curriculum In
+                            Global Life Competencies Curriculum
                           </Link>
                         </li>
                         <li>

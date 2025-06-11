@@ -87,18 +87,18 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="edtech-solutions">EdTech Solutions</a>
+                      <a href="/edtech-solutions">EdTech Solutions</a>
                     </li>
                     <li>
-                      <a href="ai-solutions">AI Solutions</a>
+                      <a href="/ai-solutions">AI Solutions</a>
                     </li>
                     <li>
-                      <a href="educational-consulting">
+                      <a href="/educational-consulting">
                         Educational Consulting
                       </a>
                     </li>
                     <li>
-                      <a href="competitions-webinars">
+                      <a href="/competitions-webinars">
                         Competitions & Webinars
                       </a>
                     </li>
@@ -110,17 +110,17 @@ export default function Footer4() {
                   </h5>
                   <ul className="menu-footer">
                     <li>
-                      <a href="robotics-and-ai-curriculum">
+                      <a href="/robotics-and-ai-curriculum">
                         Robotics & AI Curriculum
                       </a>
                     </li>
                     <li>
-                      <a href="skills-competences">
-                        Skills & Competences Curriculum
+                      <a href="/skills-competences">
+                        Global Life Competencies Curriculum
                       </a>
                     </li>
                     <li>
-                      <a href="esl-english-language">
+                      <a href="/esl-english-language">
                         ESL English Language Curriculum
                       </a>
                     </li>

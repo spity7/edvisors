@@ -104,7 +104,7 @@ export default function Header1({
                         </li>
                         <li>
                           <Link href="/skills-competences">
-                            Skills & Competences Curriculum
+                            Global Life Competencies Curriculum
                           </Link>
                         </li>
                         <li>
