@@ -78,7 +78,7 @@ export default function JobDetails() {
                       </a>
                     </p>
                     <h3 className="mb-12 fw-bold fs-1">
-                      Robotics & AI Curriculum
+                      AI & Robotics Curriculum
                     </h3>
                     {/* <div className="box-button-tags">
                       <Link className="btn btn-tag-2" href="#">
@@ -97,7 +97,7 @@ export default function JobDetails() {
                       <span>1</span>Overview
                     </div>
                     <p>
-                      Our Robotics & AI Curriculum equips students with the
+                      Our AI & Robotics Curriculum equips students with the
                       technical and critical thinking skills needed to thrive in
                       a tech-driven world. Developed by educational technology
                       experts at Boxmind Academy, this program blends robotics,

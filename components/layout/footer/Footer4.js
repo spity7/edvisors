@@ -111,12 +111,12 @@ export default function Footer4() {
                   <ul className="menu-footer">
                     <li>
                       <Link href="/robotics-and-ai-curriculum">
-                        Robotics & AI Curriculum
+                        AI & Robotics Curriculum
                       </Link>
                     </li>
                     <li>
                       <Link href="/skills-competences">
-                        Global Life Competencies Curriculum
+                        Global Life Competencies Curriculum
                       </Link>
                     </li>
                     <li>

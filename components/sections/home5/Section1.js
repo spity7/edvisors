@@ -1,7 +1,7 @@
 import VideoPopup from "@/components/elements/VideoPopup";
 import Link from "next/link";
 
-const HeroVideo = "/assets/videos/Copy of Empowering Future Innovators (1).mp4";
+const HeroVideo = "/assets/videos/Copy of Empowering Future Innovators.mp4";
 
 export default function Section1() {
   return (

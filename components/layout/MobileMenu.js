@@ -221,7 +221,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }) {
                       >
                         <li>
                           <Link href="/robotics-and-ai-curriculum">
-                            Robotics & AI Curriculum
+                            AI & Robotics Curriculum
                           </Link>
                         </li>
                         <li>

@@ -43,7 +43,7 @@ export default function Service() {
                     <div className="card-info">
                       <Link href="/robotics-and-ai-curriculum">
                         <h5 className="heading-5">
-                          1. Robotics & AI Curriculum:
+                          1. AI & Robotics Curriculum:
                         </h5>
                       </Link>
                       <p className="text-lg">
@@ -113,11 +113,11 @@ export default function Service() {
                     <div className="card-info">
                       <Link href="skills-competences">
                         <h5 className="heading-5">
-                          2. Skills & Competences Curriculum:
+                          2. Global Life Competencies Curriculum:
                         </h5>
                       </Link>
                       <p className="text-lg">
-                        Our Skills & Competences Curriculum fosters the
+                        Our Global Life Competencies Curriculum fosters the
                         essential soft skills, leadership traits, and emotional
                         intelligence required for future success.
                       </p>

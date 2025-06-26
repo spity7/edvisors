@@ -99,12 +99,12 @@ export default function Header1({
                       <ul className="sub-menu">
                         <li>
                           <Link href="/robotics-and-ai-curriculum">
-                            Robotics & AI Curriculum
+                            AI & Robotics Curriculum
                           </Link>
                         </li>
                         <li>
                           <Link href="/skills-competences">
-                            Global Life Competencies Curriculum
+                            Global Life Competencies Curriculum
                           </Link>
                         </li>
                         <li>

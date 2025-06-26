@@ -44,7 +44,7 @@ export default function Section4() {
                   </div>
                   <div className="card-info">
                     <h3 className="heading-2 mb-30">
-                      Robotics & AI Curriculum:s
+                      AI & Robotics Curriculum:
                     </h3>
                     <p className="heading-5 card-desc">
                       A future-ready program powered by Boxmind Academy,
@@ -76,10 +76,10 @@ export default function Section4() {
                   </div>
                   <div className="card-info">
                     <h3 className="heading-2 mb-30">
-                      Skills & Competences Curriculum:
+                      Global Life Competencies Curriculum:
                     </h3>
                     <p className="heading-5 card-desc">
-                      Our Skills & Competences Curriculum fosters the essential
+                      Our Global Life Competencies Curriculum fosters the essential
                       soft skills, leadership traits, and emotional intelligence
                       required for future success.
                     </p>
