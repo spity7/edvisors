@@ -8,7 +8,7 @@ export default function Footer4() {
           <div className="box-newsletter">
             <div className="newsletter-left">
               <h2>Join our community</h2>
-              <p className="text-md neutral-600">
+              <p className="text-md neutral-800">
                 Work smarter with effective time management — enhance your
                 experience with Edvisors.
               </p>
