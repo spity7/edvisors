@@ -44,7 +44,7 @@ export default function Section4() {
                   </div>
                   <div className="card-info">
                     <h3 className="heading-2 mb-30">
-                      Robotics & AI Curriculum:
+                      Robotics & AI Curriculum:s
                     </h3>
                     <p className="heading-5 card-desc">
                       A future-ready program powered by Boxmind Academy,
