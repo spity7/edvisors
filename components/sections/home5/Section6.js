@@ -85,7 +85,7 @@ export default function Section6() {
                 />
                 <div className="img-sub-1 shape-1">
                   <img
-                    src="/assets/imgs/page/homepage6/excellence-word-vector-text-golden-stars-trail-handwrit-excellence-word-text-golden-stars-trail-handwritten-126422885-removebg-preview (2).png"
+                    src="/assets/imgs/page/homepage6/1.png"
                     alt="Nivia"
                     width={200}
                     style={{ borderRadius: "20px" }}
@@ -93,7 +93,7 @@ export default function Section6() {
                 </div>
                 <div className="img-sub-2 shape-3">
                   <img
-                    src="/assets/imgs/page/homepage6/fb7ee88ebff75db244aa3d89b06b38af-removebg-preview.png"
+                    src="/assets/imgs/page/homepage6/2.png"
                     alt="Nivia"
                     width={170}
                     style={{ borderRadius: "20px" }}
