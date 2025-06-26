@@ -23,7 +23,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -44,7 +44,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -64,7 +64,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -85,7 +85,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -106,7 +106,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -127,7 +127,7 @@ export default function Section2() {
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
                                                         <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#C5FF41" />
+                                                        <stop offset={1} stopColor="#269dff" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>

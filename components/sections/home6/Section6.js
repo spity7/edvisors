@@ -36,7 +36,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
@@ -63,7 +63,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
@@ -90,7 +90,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
@@ -117,7 +117,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
@@ -144,7 +144,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
@@ -171,7 +171,7 @@ export default function Section6() {
                                             <defs>
                                                 <linearGradient id="paint0_linear_15_1041" x1="39.3571" y1="5.62961" x2="-3.06271" y2="8.58385" gradientUnits="userSpaceOnUse">
                                                     <stop stopColor="#22D1EE" />
-                                                    <stop offset={1} stopColor="#C5FF41" />
+                                                    <stop offset={1} stopColor="#269dff" />
                                                 </linearGradient>
                                                 <clipPath id="clip0_15_1041">
                                                     <rect width={13} height={13} fill="white" transform="translate(13 13)">
