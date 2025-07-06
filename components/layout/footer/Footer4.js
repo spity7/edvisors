@@ -14,30 +14,23 @@ export default function Footer4() {
               </p>
             </div>
             <div className="newsletter-right">
-              <form action="#">
-                <input
-                  className="form-control"
-                  type="text"
-                  placeholder="Email address..."
-                />
-                <button className="btn btn-subscribe" type="submit">
-                  Subscribe
-                  <svg
-                    width={22}
-                    height={22}
-                    viewBox="0 0 22 22"
-                    fill="none"
-                    xmlns="http://www.w3.org/2000/svg"
+              <Link href="/contact" className="btn btn-subscribe">
+                Contact Us
+                <svg
+                  width={22}
+                  height={22}
+                  viewBox="0 0 22 22"
+                  fill="none"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M22 10.9993L18.4791 7.47852V10.3064H0V11.6924H18.4791V14.5203L22 10.9993Z"
+                    fill="true"
                   >
-                    <path
-                      d="M22 10.9993L18.4791 7.47852V10.3064H0V11.6924H18.4791V14.5203L22 10.9993Z"
-                      fill="true"
-                    >
-                      {" "}
-                    </path>
-                  </svg>
-                </button>
-              </form>
+                    {" "}
+                  </path>
+                </svg>
+              </Link>
             </div>
           </div>
         </div>

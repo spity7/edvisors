@@ -7634,11 +7634,11 @@ a.icon-socials:hover {
   margin-bottom: 78px;
 }
 .box-newsletter .newsletter-left {
-  max-width: 435px;
+  max-width: 635px;
 }
 .box-newsletter .newsletter-right {
   max-width: 606px;
-  width: 100%;
+  width: 25%;
 }
 .box-newsletter .newsletter-right .form-control {
   height: 66px;

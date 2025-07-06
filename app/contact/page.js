@@ -1,8 +1,46 @@
+"use client";
+import { useState } from "react";
+import axios from "axios";
 import LogoTicker from "@/components/elements/LogoTicker";
 import Layout from "@/components/layout/Layout";
 import Team2Slider from "@/components/slider/Team2Slider";
 import Link from "next/link";
+
 export default function Contact() {
+  const [loading, setLoading] = useState(false);
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    const form = e.target;
+    const name = form.name.value.trim();
+    const email = form.email.value.trim();
+    const message = form.message.value.trim();
+
+    if (!name || !email || !message) {
+      alert("Please fill in all fields.");
+      return;
+    }
+
+    try {
+      setLoading(true);
+
+      await axios.post("/api/contact", {
+        name,
+        email,
+        message,
+      });
+
+      alert("Your message has been sent!");
+      form.reset();
+    } catch (error) {
+      console.error(error);
+      alert(error.response?.data?.error || "Failed to send your message.");
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <>
       <Layout
@@ -90,14 +128,7 @@ export default function Contact() {
                             <h3 className="text-22-bold">Email</h3>
                             <div className="text-md neutral-700">
                               <div className="row">
-                                <div className="col-sm-6">
-                                  <Link
-                                    className="neutral-700"
-                                    href="/mailto:sale@nivia.com"
-                                  >
-                                    info@Edvisors.ai
-                                  </Link>
-                                </div>
+                                <div className="col-sm-6">info@Edvisors.ai</div>
                                 {/* <div className="col-sm-6">
                                   <Link
                                     className="neutral-700"
@@ -163,49 +194,61 @@ export default function Contact() {
                     Contact us below and we will get back to you shortly.
                   </p>
                   <div className="block-form-contact mt-45">
-                    <form action="#">
+                    <form onSubmit={handleSubmit}>
                       <div className="form-group">
-                        <label htmlFor="fullname">Your Name *</label>
+                        <label htmlFor="name">Your Name *</label>
                         <input
+                          id="name"
+                          name="name"
                           className="form-control"
                           type="text"
                           placeholder="Name"
+                          required
                         />
                       </div>
                       <div className="form-group">
-                        <label htmlFor="fullname">Your Email *</label>
+                        <label htmlFor="email">Your Email *</label>
                         <input
+                          id="email"
+                          name="email"
                           className="form-control"
-                          type="text"
+                          type="email"
                           placeholder="email@website.com"
+                          required
                         />
                       </div>
                       <div className="form-group">
-                        <label htmlFor="fullname">Message *</label>
+                        <label htmlFor="message">Message *</label>
                         <textarea
+                          id="message"
+                          name="message"
                           className="form-control"
                           rows={7}
                           placeholder="How can we help you?"
+                          required
                         />
                       </div>
                       <div className="form-group">
                         <button
                           className="btn btn-black btn-rounded"
                           type="submit"
+                          disabled={loading}
                         >
-                          Send Message
-                          <svg
-                            width={22}
-                            height={8}
-                            viewBox="0 0 22 8"
-                            fill="none"
-                            xmlns="http://www.w3.org/2000/svg"
-                          >
-                            <path
-                              d="M22 3.99934L18.4791 0.478516V3.30642H0V4.69236H18.4791V7.52031L22 3.99934Z"
-                              fill="true"
-                            />
-                          </svg>
+                          {loading ? "Sending..." : "Send Message"}
+                          {!loading && (
+                            <svg
+                              width={22}
+                              height={8}
+                              viewBox="0 0 22 8"
+                              fill="none"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M22 3.99934L18.4791 0.478516V3.30642H0V4.69236H18.4791V7.52031L22 3.99934Z"
+                                fill="true"
+                              />
+                            </svg>
+                          )}
                         </button>
                       </div>
                     </form>
