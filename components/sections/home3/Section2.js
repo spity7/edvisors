@@ -22,8 +22,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -43,8 +43,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -63,8 +63,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -84,8 +84,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -105,8 +105,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>
@@ -126,8 +126,8 @@ export default function Section2() {
                                                 <path d="M22 4.00032L18.4791 0.479492V3.3074H0V4.69333H18.4791V7.52129L22 4.00032Z" fill="url(#paint0_linear_197_2071)" />
                                                 <defs>
                                                     <linearGradient id="paint0_linear_197_2071" x1="22.7857" y1="1.52272" x2="-0.776803" y2="6.64942" gradientUnits="userSpaceOnUse">
-                                                        <stop stopColor="#22D1EE" />
-                                                        <stop offset={1} stopColor="#269dff" />
+                                                        <stop stopColor="#3ca9c2" />
+                                                        <stop offset={1} stopColor="#3ca9c2" />
                                                     </linearGradient>
                                                 </defs>
                                             </svg></Link>

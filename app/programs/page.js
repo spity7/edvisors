@@ -82,8 +82,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
@@ -153,8 +153,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
@@ -224,8 +224,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
@@ -289,8 +289,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
@@ -354,8 +354,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
@@ -419,8 +419,8 @@ export default function Service() {
                               y2="8.58385"
                               gradientUnits="userSpaceOnUse"
                             >
-                              <stop stopColor="#22D1EE" />
-                              <stop offset={1} stopColor="#269dff" />
+                              <stop stopColor="#3ca9c2" />
+                              <stop offset={1} stopColor="#3ca9c2" />
                             </linearGradient>
                             <clipPath id="clip0_15_1041">
                               <rect
