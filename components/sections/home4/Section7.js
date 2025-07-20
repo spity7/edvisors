@@ -39,162 +39,320 @@ export default function Section7() {
                 className="accordion accordion-flush accordion-style-2"
                 id="accordionFAQS"
               >
-                <div className="accordion-item">
-                  <h2
-                    className="accordion-header"
-                    id="flush-headingOne"
-                    onClick={() => handleClick(1)}
-                  >
-                    <button
+                <div className="row">
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingOne"
+                      onClick={() => handleClick(1)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 1
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseOne"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseOne"
+                      >
+                        What is Edvisors and what does it offer?
+                      </button>
+                    </h2>
+                    <div
                       className={
                         isActive.key == 1
-                          ? "accordion-button "
-                          : "accordion-button collapsed"
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
                       }
-                      type="button"
-                      data-bs-toggle="collapse"
-                      data-bs-target="#flush-collapseOne"
-                      aria-expanded="false"
-                      aria-controls="flush-collapseOne"
+                      id="flush-collapseOne"
+                      aria-labelledby="flush-headingOne"
+                      data-bs-parent="#accordionFAQS"
                     >
-                      What is Edvisors and who is it for?
-                    </button>
-                  </h2>
-                  <div
-                    className={
-                      isActive.key == 1
-                        ? "accordion-collapse collapse show"
-                        : "accordion-collapse collapse"
-                    }
-                    id="flush-collapseOne"
-                    aria-labelledby="flush-headingOne"
-                    data-bs-parent="#accordionFAQS"
-                  >
-                    <div className="accordion-body">
-                      <p>
-                        Edvisors is a modern educational platform designed for
-                        students, educators, and institutions seeking
-                        innovative, tech-driven learning experiences. Whether
-                        you're looking to enhance your teaching, streamline
-                        administration, or access high-quality learning tools,
-                        Edvisors has something for you.
-                      </p>
+                      <div className="accordion-body">
+                        <p>
+                          Edvisors is an educational solutions company dedicated
+                          to transforming K–12 learning through innovative
+                          programs and services, including AI, robotics, EdTech
+                          integration, and global skills development.
+                        </p>
+                      </div>
                     </div>
                   </div>
-                </div>
-                <div className="accordion-item">
-                  <h2
-                    className="accordion-header"
-                    id="flush-headingTwo"
-                    onClick={() => handleClick(2)}
-                  >
-                    <button
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingTwo"
+                      onClick={() => handleClick(2)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 2
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseTwo"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseTwo"
+                      >
+                        Who can benefit from Edvisors' services?
+                      </button>
+                    </h2>
+                    <div
                       className={
                         isActive.key == 2
-                          ? "accordion-button "
-                          : "accordion-button collapsed"
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
                       }
-                      type="button"
-                      data-bs-toggle="collapse"
-                      data-bs-target="#flush-collapseTwo"
-                      aria-expanded="false"
-                      aria-controls="flush-collapseTwo"
+                      id="flush-collapseTwo"
+                      aria-labelledby="flush-headingTwo"
+                      data-bs-parent="#accordionFAQS"
                     >
-                      Do I need technical skills to use Edvisors tools?
-                    </button>
-                  </h2>
-                  <div
-                    className={
-                      isActive.key == 2
-                        ? "accordion-collapse collapse show"
-                        : "accordion-collapse collapse"
-                    }
-                    id="flush-collapseTwo"
-                    aria-labelledby="flush-headingTwo"
-                    data-bs-parent="#accordionFAQS"
-                  >
-                    <div className="accordion-body">
-                      Not at all. Edvisors is built to be user-friendly and
-                      intuitive. Our dashboard and tools are designed for easy
-                      navigation — no coding or advanced tech skills required.
+                      <div className="accordion-body">
+                        We serve K–12 schools, international academies,
+                        ministries of education, educators, and students around
+                        the world.
+                      </div>
                     </div>
                   </div>
                 </div>
-                <div className="accordion-item">
-                  <h2
-                    className="accordion-header"
-                    id="flush-headingThree"
-                    onClick={() => handleClick(3)}
-                  >
-                    <button
+                <div className="row">
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingThree"
+                      onClick={() => handleClick(3)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 3
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseThree"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseThree"
+                      >
+                        What is the Robotics & AI Curriculum at Edvisors?
+                      </button>
+                    </h2>
+                    <div
                       className={
                         isActive.key == 3
-                          ? "accordion-button "
-                          : "accordion-button collapsed"
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
                       }
-                      type="button"
-                      data-bs-toggle="collapse"
-                      data-bs-target="#flush-collapseThree"
-                      aria-expanded="false"
-                      aria-controls="flush-collapseThree"
+                      id="flush-collapseThree"
+                      aria-labelledby="flush-headingThree"
+                      data-bs-parent="#accordionFAQS"
                     >
-                      Can Edvisors support remote and hybrid learning?
-                    </button>
-                  </h2>
-                  <div
-                    className={
-                      isActive.key == 3
-                        ? "accordion-collapse collapse show"
-                        : "accordion-collapse collapse"
-                    }
-                    id="flush-collapseThree"
-                    aria-labelledby="flush-headingThree"
-                    data-bs-parent="#accordionFAQS"
-                  >
-                    <div className="accordion-body">
-                      Yes. Edvisors provides powerful features that support
-                      online, in-person, and hybrid learning environments —
-                      including real-time collaboration, progress tracking, and
-                      resource sharing.
+                      <div className="accordion-body">
+                        It's a hands-on, progressive K–12 program powered by
+                        Boxmind Academy, integrating robotics kits, AI tools,
+                        and real-world projects to build 21st-century tech
+                        skills.
+                      </div>
+                    </div>
+                  </div>
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingFour"
+                      onClick={() => handleClick(4)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 4
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFour"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseFour"
+                      >
+                        At what age or grade can students start the Robotics &
+                        AI program?
+                      </button>
+                    </h2>
+                    <div
+                      className={
+                        isActive.key == 4
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
+                      }
+                      id="flush-collapseFour"
+                      aria-labelledby="flush-headingFour"
+                      data-bs-parent="#accordionFAQS"
+                    >
+                      <div className="accordion-body">
+                        The program is designed for Grades 1–12 with content
+                        tailored for elementary, middle, and high school levels.
+                      </div>
                     </div>
                   </div>
                 </div>
-                <div className="accordion-item">
-                  <h2
-                    className="accordion-header"
-                    id="flush-headingFour"
-                    onClick={() => handleClick(4)}
-                  >
-                    <button
-                      className={
-                        isActive.key == 4
-                          ? "accordion-button "
-                          : "accordion-button collapsed"
-                      }
-                      type="button"
-                      data-bs-toggle="collapse"
-                      data-bs-target="#flush-collapseFour"
-                      aria-expanded="false"
-                      aria-controls="flush-collapseFour"
+                <div className="row">
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingFive"
+                      onClick={() => handleClick(5)}
                     >
-                      How does Edvisors help improve learning outcomes?
-                    </button>
-                  </h2>
-                  <div
-                    className={
-                      isActive.key == 4
-                        ? "accordion-collapse collapse show"
-                        : "accordion-collapse collapse"
-                    }
-                    id="flush-collapseFour"
-                    aria-labelledby="flush-headingFour"
-                    data-bs-parent="#accordionFAQS"
-                  >
-                    <div className="accordion-body">
-                      Through AI-driven insights, personalized feedback, and
-                      adaptive learning tools, Edvisors helps educators tailor
-                      their approach and students stay on track — leading to
-                      better engagement and improved results.
+                      <button
+                        className={
+                          isActive.key == 5
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseFive"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseFive"
+                      >
+                        What skills will students gain from the Robotics & AI
+                        program?
+                      </button>
+                    </h2>
+                    <div
+                      className={
+                        isActive.key == 5
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
+                      }
+                      id="flush-collapseFive"
+                      aria-labelledby="flush-headingFive"
+                      data-bs-parent="#accordionFAQS"
+                    >
+                      <div className="accordion-body">
+                        Students will learn to build and code robots, apply AI
+                        concepts like voice and image recognition, and solve
+                        real-world problems using design thinking.
+                      </div>
+                    </div>
+                  </div>
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingSix"
+                      onClick={() => handleClick(6)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 6
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSix"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseSix"
+                      >
+                        What does the Skills & Competences Curriculum cover?
+                      </button>
+                    </h2>
+                    <div
+                      className={
+                        isActive.key == 6
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
+                      }
+                      id="flush-collapseSix"
+                      aria-labelledby="flush-headingSix"
+                      data-bs-parent="#accordionFAQS"
+                    >
+                      <div className="accordion-body">
+                        It focuses on soft skills like critical thinking,
+                        leadership, emotional intelligence, ethics, and global
+                        citizenship through interactive, project-based learning.
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div className="row">
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingSeven"
+                      onClick={() => handleClick(7)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 7
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseSeven"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseSeven"
+                      >
+                        Is the ESL Curriculum aligned with global standards?
+                      </button>
+                    </h2>
+                    <div
+                      className={
+                        isActive.key == 7
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
+                      }
+                      id="flush-collapseSeven"
+                      aria-labelledby="flush-headingSeven"
+                      data-bs-parent="#accordionFAQS"
+                    >
+                      <div className="accordion-body">
+                        Yes, it follows CEFR and WIDA guidelines, supporting
+                        non-native speakers in mastering reading, writing,
+                        speaking, and listening.
+                      </div>
+                    </div>
+                  </div>
+                  <div className="accordion-item col-md-6">
+                    <h2
+                      className="accordion-header"
+                      id="flush-headingEight"
+                      onClick={() => handleClick(8)}
+                    >
+                      <button
+                        className={
+                          isActive.key == 8
+                            ? "accordion-button "
+                            : "accordion-button collapsed"
+                        }
+                        type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#flush-collapseEight"
+                        aria-expanded="false"
+                        aria-controls="flush-collapseEight"
+                      >
+                        Does Edvisors prepare students for English proficiency
+                        exams?
+                      </button>
+                    </h2>
+                    <div
+                      className={
+                        isActive.key == 8
+                          ? "accordion-collapse collapse show"
+                          : "accordion-collapse collapse"
+                      }
+                      id="flush-collapseEight"
+                      aria-labelledby="flush-headingEight"
+                      data-bs-parent="#accordionFAQS"
+                    >
+                      <div className="accordion-body">
+                        Yes, our ESL program supports students aiming for TOEFL
+                        Junior, IELTS, and similar global exams.
+                      </div>
                     </div>
                   </div>
                 </div>

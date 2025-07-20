@@ -1199,9 +1199,9 @@ body {
   padding: 6px 21px;
   border: 1px solid #3ca9c2;
   background: #191919;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 24px;
-  font-weight: 500;
+  font-weight: 800;
   display: inline-block !important;
   color: #3ca9c2;
 }
@@ -1320,7 +1320,7 @@ body {
 }
 .btn.btn-brand-4 {
   padding: 21px 80px;
-  background-color: #3ca9c2;
+  background: linear-gradient(135deg, #e74c3c, #3ca9c2);
   border-radius: 96px;
   color: #191919;
   font-size: 18px;
@@ -1333,13 +1333,13 @@ body {
   margin-left: 5px;
 }
 .btn.btn-brand-4:hover {
-  background: #eceef2;
+  background: linear-gradient(135deg, #3ca9c2, #e74c3c);
 }
 .btn.btn-brand-4-medium {
   padding: 14px 25px;
-  background-color: #3ca9c2;
+  background: linear-gradient(135deg,#e74c3c, #3ca9c2);
   border-radius: 8px;
-  color: #191919;
+  color: #fff;
   font-size: 18px;
   line-height: 22px;
   font-weight: 600;
@@ -1348,21 +1348,21 @@ body {
   align-items: center;
 }
 .btn.btn-brand-4-medium svg {
-  fill: #191919;
+  fill: #ffffff;
   margin-left: 5px;
 }
 .btn.btn-brand-4-medium:hover {
-  background: #c43383;
+  background: linear-gradient(135deg, #3ca9c2, #e74c3c);
 }
 .btn.btn-brand-4-sm {
-  padding: 4px 21px;
+  padding: 10px 21px;
   background-color: #3ca9c2;
   border: 1px solid #3ca9c2;
   border-radius: 36px;
   color: #191919;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 24px;
-  font-weight: 400;
+  font-weight: 800;
   font-family: var(--tg-body-font-family);
 }
 .btn.btn-brand-4-sm svg {
@@ -1518,7 +1518,7 @@ body {
   line-height: 20px;
   font-family: var(--tg-body-font-family);
   font-weight: 500;
-  background-color: #191919;
+  background: linear-gradient(135deg, #ff604f, #ff321c);
 }
 .btn.btn-subscribe svg {
   fill: #ffffff;
@@ -6096,7 +6096,7 @@ a.icon-socials:hover {
 }
 
 .text-linear-3 {
-  background: -webkit-linear-gradient(236deg, #3ca9c2 0%, #3ca9c2 100%);
+  background: -webkit-linear-gradient(236deg, #3ca9c2 0%, #b5f1ff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -6674,6 +6674,7 @@ a.icon-socials:hover {
 
 .card-enjoy {
   border-radius: 16px;
+  border: 1px solid white;
   background-color: #2b2c2d;
   padding: 32px;
   margin-bottom: 25px;

@@ -76,9 +76,9 @@ export default function Contact() {
               <div className="box-border-rounded">
                 <div className="row align-items-center">
                   <div className="col-lg-6">
-                    <Link className="btn btn-brand-4-sm" href="#">
+                    {/* <Link className="btn btn-brand-4-sm" href="#">
                       Contact Us
-                    </Link>
+                    </Link> */}
                     <h3 className="mb-20 mt-20">
                       To make requests for further information, contact us via
                       our social channels.
