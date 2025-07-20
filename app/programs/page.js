@@ -35,7 +35,7 @@ export default function Service() {
                     <div className="card-image">
                       <Link href="/robotics-and-ai-curriculum">
                         <img
-                          src="/assets/imgs/page/homepage5/ideas.png"
+                          src="/assets/imgs/page/homepage6/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zMl9haV9yb2JvdF91c2luZ190YWJsZXRfaXNvbGF0ZV9vbl93aGl0ZV9iYWNrZ183ZDY1ZDA4YS05N2NkLTRlZjItOGNjMy1mYzIwMzE5MzE0OTRfMS5wbmc-removebg-pre.png"
                           alt="Nivia"
                         />
                       </Link>
@@ -105,7 +105,7 @@ export default function Service() {
                     <div className="card-image">
                       <Link href="skills-competences">
                         <img
-                          src="/assets/imgs/page/homepage5/ideas.png"
+                          src="/assets/imgs/page/homepage6/teaching-for-global-competence-rapidly-changing-world-from-asiasociety.org_-1080x675-removebg-preview.png"
                           alt="Nivia"
                         />
                       </Link>
@@ -176,7 +176,7 @@ export default function Service() {
                     <div className="card-image">
                       <Link href="esl-english-language">
                         <img
-                          src="/assets/imgs/page/homepage5/ideas.png"
+                          src="/assets/imgs/page/homepage6/esl-alternative-cirriculum-small-scale-logo-1_ver_1-removebg-preview.png"
                           alt="Nivia"
                         />
                       </Link>

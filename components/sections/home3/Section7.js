@@ -26,11 +26,11 @@ export default function Section7() {
                   About Us
                 </Link>
                 <h3 className="heading-2 neutral-0 mt-20 mb-20">
-                  Empowering Education with AI & EdTech Solutions
+                  Empowering Education with AI & EdTech Programs
                 </h3>
                 <p className="text-lg neutral-200 mb-35">
                   Edvisors LLC is dedicated to revolutionizing education through
-                  innovative AI-powered solutions, cutting-edge curricula, and
+                  innovative AI-powered programs, cutting-edge curricula, and
                   strategic consulting for institutions worldwide.
                 </p>
                 <div className="card-lead-list">

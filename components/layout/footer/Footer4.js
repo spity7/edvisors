@@ -161,7 +161,7 @@ export default function Footer4() {
             <div className="row">
               <div className="col-md-6 text-md-start text-center">
                 <p className="text-sm neutral-600">
-                  Copyright © 2023 Edvisors. All rights reserved.
+                  Copyright © 2025 Edvisors. All rights reserved.
                 </p>
               </div>
               <div className="col-md-6 text-md-end text-center">

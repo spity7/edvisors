@@ -70,18 +70,24 @@ export default function Section6() {
                 </div>
                 <div className="card-info">
                   <h3>K-12 International Curriculum</h3>
-                  <p className="text-md">
-                    Skills-based curricula in English, French, and Arabic with
-                    proven learning outcomes.
-                  </p>
+                  <ul>
+                    <li className="text-md">AI & Robotics Curriculum</li>
+                    <li className="text-md">
+                      Global Life Competencies Curriculum
+                    </li>
+                    <li className="text-md">ESL English Language Curriculum</li>
+                  </ul>
                 </div>
               </div>
             </div>
             <div className="col-lg-6 text-center">
               <div className="box-main-img-feature">
                 <img
-                  src="/assets/imgs/page/homepage6/img-feature.png"
+                  src="/assets/imgs/page/homepage6/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg"
                   alt="Nivia"
+                  style={{
+                    borderRadius: "20px",
+                  }}
                 />
                 <div className="img-sub-1 shape-1">
                   <img

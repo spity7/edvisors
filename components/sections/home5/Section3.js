@@ -15,7 +15,7 @@ export default function Section3() {
                 <h3 className="heading-3">Countries</h3>
               </div>
               <h1 className="heading-1 neutral-0">
-                Trusted by users in more than 15 countries globally.
+                Trusted by educators in more than 15 countries globally.
               </h1>
             </div>
             <div className="col-lg-7 mb-40">

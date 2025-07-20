@@ -8026,13 +8026,13 @@ a.icon-socials:hover {
   background: #ffffff;
 }
 .accordion-style-2.accordion-flush .accordion-button::after {
-  background-image: url(../imgs/page/homepage1/plus.png);
+  background-image: url(../imgs/page/homepage1/plus-edited.png);
   height: 25px;
   width: 25px;
   right: 19px;
 }
 .accordion-style-2.accordion-flush .accordion-button:not(.collapsed)::after {
-  background-image: url(../imgs/page/homepage1/minus.png);
+  background-image: url(../imgs/page/homepage1/minus-edited.png);
 }
 
 .hero-6 {
@@ -9967,7 +9967,7 @@ a.icon-socials:hover {
     height: 348px;
   }
   .item-logo-2 {
-    padding: 10px 5px;
+    padding: 15px 10px;
     border-radius: 14px;
     height: 100%;
     /* line-height: 34px; */

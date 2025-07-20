@@ -39,7 +39,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/ready.png"
+                      src="/assets/imgs/page/homepage6/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zMl9haV9yb2JvdF91c2luZ190YWJsZXRfaXNvbGF0ZV9vbl93aGl0ZV9iYWNrZ183ZDY1ZDA4YS05N2NkLTRlZjItOGNjMy1mYzIwMzE5MzE0OTRfMS5wbmc-removebg-pre.png"
                     />
                   </div>
                   <div className="card-info">
@@ -71,7 +71,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/integration.png"
+                      src="/assets/imgs/page/homepage6/teaching-for-global-competence-rapidly-changing-world-from-asiasociety.org_-1080x675-removebg-preview.png"
                     />
                   </div>
                   <div className="card-info">
@@ -105,7 +105,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/fast.png"
+                      src="/assets/imgs/page/homepage6/esl-alternative-cirriculum-small-scale-logo-1_ver_1-removebg-preview.png"
                     />
                   </div>
                   <div className="card-info">

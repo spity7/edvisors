@@ -29,9 +29,10 @@ export default function About() {
                       Empowering Modern Education
                     </h2>
                     <p className="text-xl mb-45">
-                      Edvisors is a forward-thinking educational solutions
-                      company dedicated to transforming K–12 learning through
-                      technology, innovation, and a global perspective.
+                      At Edvisors, we empower schools and educators with
+                      tailored EdTech Programs that enhance teaching, learning,
+                      and school operations through immersive, tech-driven
+                      environments.
                     </p>
                     {/* <div className="box-buttons-feature-4">
                       <Link className="btn btn-brand-4-medium mr-20" href="#">
@@ -88,9 +89,10 @@ export default function About() {
                     </div> */}
                     <div className="box-border-left-author">
                       <p className="text-22-bold">
-                        We provide AI-driven tools, strategic guidance, and
-                        international expertise to help educators and schools
-                        thrive in the 21st century.
+                        From LMS integration and smart classrooms to AI
+                        platforms and educational consulting — we help
+                        institutions innovate, scale, and succeed in modern
+                        education.
                       </p>
                       <div className="box-joined">
                         <div className="box-authors">
@@ -121,7 +123,8 @@ export default function About() {
                         <span className="text-lg d-inline-block">
                           Join hundreds of educators using
                           <br className="d-none d-md-block" />
-                          the Edvisors platform to enhance learning outcomes.
+                          the Edvisors platform to transform digital learning
+                          experiences.
                         </span>
                       </div>
                     </div>
@@ -150,15 +153,14 @@ export default function About() {
                   <div className="padding-right-auto">
                     <div className="box-padding-left-50 box-padding-right-50">
                       <div className="strate-icon">
-                        <span /> Education strategies for the future
+                        <span /> Our Flagship Programs
                       </div>
                       <h2 className="heading-2 mb-20">
-                        Driving results with AI-powered learning and consulting
+                        Driving Results with AI and Skill-Based Curricula
                       </h2>
                       <p className="text-lg neutral-700">
-                        From tailored digital curricula to expert international
-                        partnerships, Edvisors equips educators with tools to
-                        meet evolving classroom needs.
+                        Edvisors develops student-centered programs that
+                        integrate future-ready technologies and soft skills:
                       </p>
                       <div className="row mt-50">
                         <div className="col-xl-6 col-lg-12 col-sm-6">
@@ -169,9 +171,13 @@ export default function About() {
                             <div className="card-info">
                               <Link href="#">
                                 <h3 className="text-22-bold">
-                                  AI-Driven Curriculum Solutions
+                                  Robotics & AI Curriculum
                                 </h3>
                               </Link>
+                              <p>
+                                Hands-on learning for Grades 1–12 including
+                                Python, ML, and real-world problem solving.
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -183,9 +189,31 @@ export default function About() {
                             <div className="card-info">
                               <Link href="#">
                                 <h3 className="text-22-bold">
-                                  Global Educational Consulting
+                                  Skills & Competences Curriculum
                                 </h3>
                               </Link>
+                              <p>
+                                Teaches critical thinking, leadership,
+                                collaboration, and emotional intelligence.
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                        <div className="col-xl-12 col-lg-12 col-sm-12 mt-4">
+                          <div className="card-feature-2">
+                            <div className="card-image">
+                              <img src="/assets/imgs/page/homepage3/keep.svg" />
+                            </div>
+                            <div className="card-info">
+                              <Link href="#">
+                                <h3 className="text-22-bold">
+                                  ESL English Language Curriculum
+                                </h3>
+                              </Link>
+                              <p>
+                                Builds fluency and confidence in Grades 1–12
+                                with global standards like CEFR and WIDA.
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -408,10 +436,9 @@ export default function About() {
                       Empowering progress through purpose-driven strategies
                     </h2>
                     <p className="text-lg neutral-700">
-                      At Edvisors, we design with intention and impact. Since
-                      2010, we’ve been crafting digital experiences that reflect
-                      strong principles, innovation, and a passion for
-                      educational success.
+                      At Edvisors, we design with intention and impact. We craft
+                      digital experiences that reflect strong principles,
+                      innovation, and a passion for educational success.
                     </p>
                     <div className="row mt-50">
                       <div className="col-lg-6 col-sm-6">
