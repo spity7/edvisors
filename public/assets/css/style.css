@@ -1357,12 +1357,12 @@ body {
 }
 .btn.btn-brand-4-sm {
   padding: 10px 21px;
-  background-color: #3ca9c2;
+  background: linear-gradient(135deg,#3ca9c2, #b5f1ff);
   border: 1px solid #3ca9c2;
   border-radius: 36px;
   color: #191919;
-  font-size: 24px;
-  line-height: 24px;
+  font-size: 22px;
+  line-height: 20px;
   font-weight: 800;
   font-family: var(--tg-body-font-family);
 }
