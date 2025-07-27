@@ -1513,13 +1513,16 @@ body {
   padding: 20px 25px;
   color: #ffffff;
   border-radius: 8px;
+  border: 1px solid white;
   min-width: 188px;
   text-align: center;
   font-size: 18px;
   line-height: 20px;
   font-family: var(--tg-body-font-family);
   font-weight: 500;
-  background: linear-gradient(135deg, #ff604f, #ff321c);
+  /* background: linear-gradient(135deg, #ff604f, #ff321c); */
+  /* background: linear-gradient(135deg, #1f93ad, #7ce5fc); */
+  background-color: #1f93ad;
 }
 .btn.btn-subscribe svg {
   fill: #ffffff;
