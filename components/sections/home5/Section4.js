@@ -39,7 +39,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTExL3Jhd3BpeGVsX29mZmljZV8zMl9haV9yb2JvdF91c2luZ190YWJsZXRfaXNvbGF0ZV9vbl93aGl0ZV9iYWNrZ183ZDY1ZDA4YS05N2NkLTRlZjItOGNjMy1mYzIwMzE5MzE0OTRfMS5wbmc-removebg-pre.png"
+                      src="/assets/imgs/page/homepage6/droid.png"
                     />
                   </div>
                   <div className="card-info">
@@ -71,7 +71,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/teaching-for-global-competence-rapidly-changing-world-from-asiasociety.org_-1080x675-removebg-preview.png"
+                      src="/assets/imgs/page/homepage6/worldwide.png"
                     />
                   </div>
                   <div className="card-info">
@@ -79,9 +79,9 @@ export default function Section4() {
                       Global Life Competencies Curriculum:
                     </h3>
                     <p className="heading-5 card-desc">
-                      Our Global Life Competencies Curriculum fosters the essential
-                      soft skills, leadership traits, and emotional intelligence
-                      required for future success.
+                      Our Global Life Competencies Curriculum fosters the
+                      essential soft skills, leadership traits, and emotional
+                      intelligence required for future success.
                     </p>
                   </div>
                 </div>
