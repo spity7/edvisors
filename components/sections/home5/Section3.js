@@ -7,7 +7,7 @@ export default function Section3() {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-5 mb-40">
-              <div className="box-number-award">
+              <div className="box-number-award" style={{ color: "white" }}>
                 <img alt="Nivia" src="/assets/imgs/page/homepage6/award.svg" />
                 <p className="display-2">
                   +<CounterUp count={15} />

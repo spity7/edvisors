@@ -1198,17 +1198,26 @@ body {
   border-radius: 100px;
   padding: 6px 21px;
   border: 1px solid #3ca9c2;
-  background: #191919;
+  background-color: #191919;
   font-size: 24px;
   line-height: 24px;
   font-weight: 800;
   display: inline-block !important;
-  color: #3ca9c2;
+  color: #3ca9c2; /* fallback if gradient fails */
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(90deg, #3ca9c2, #00ffd0); /* Customize colors */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
 }
 .btn.btn-tag-black:hover {
   color: #191919;
   border-color: #191919;
-  background-color: #3ca9c2;
+  background-color: #000;
 }
 .btn.btn-start-trial {
   background: linear-gradient(236deg, #3ca9c2 0%, #3ca9c2 100%);
@@ -5865,6 +5874,7 @@ a.icon-socials:hover {
 .box-number-award {
   background: #3ca9c2;
   border-radius: 32px;
+  border: 2px solid white;
   padding: 18px 20px 25px 20px;
   text-align: center;
   display: inline-block;
