@@ -330,7 +330,9 @@ export default function Service() {
               <div className="text-center">
                 {" "}
                 <Link className="btn btn-tag-black" href="#">
-                  Why Should You Choose Us?
+                  <span className="gradient-text">
+                    Why Should You Choose Us?
+                  </span>
                 </Link>
                 <h2 className="mt-15 mb-65">
                   Global Expertise, Tailored Education Solutions

@@ -1329,8 +1329,9 @@ body {
 }
 .btn.btn-brand-4 {
   padding: 21px 80px;
-  background: linear-gradient(135deg, #e74c3c, #3ca9c2);
+  background: linear-gradient(135deg, #3ca9c2, #b5f1ff);
   border-radius: 96px;
+  border: 1px solid #3ca9c2;
   color: #191919;
   font-size: 18px;
   line-height: 22px;
@@ -1342,7 +1343,7 @@ body {
   margin-left: 5px;
 }
 .btn.btn-brand-4:hover {
-  background: linear-gradient(135deg, #3ca9c2, #e74c3c);
+  background: linear-gradient(135deg, #3ca9c2, #3ca9c2);
 }
 .btn.btn-brand-4-medium {
   padding: 14px 25px;
@@ -2657,7 +2658,9 @@ label {
   margin-bottom: 30px;
   /* width: 400px;        */
   height: 400px;      
-  overflow: hidden;   
+  overflow: hidden;
+  border-radius: 20px;
+  border: 1px solid #3ca9c2;
 }
 
 .card-we-know .card-image {
@@ -2692,10 +2695,10 @@ label {
   fill: #191919;
 }
 .card-we-know .card-info .card-title:hover {
-  color: #c43383;
+  color: white;
 }
 .card-we-know .card-info .card-title:hover svg {
-  fill: #c43383;
+  fill: #00586c;
 }
 .card-we-know .card-info .card-desc {
   border-top: 1px solid #191919;
@@ -7131,6 +7134,7 @@ a.icon-socials:hover {
   height: 64px;
   width: 64px;
   border-radius: 8px;
+  border: 1px solid #3ca9c2;
   margin-right: 19px;
   line-height: 60px;
   min-width: 64px;
@@ -8297,7 +8301,7 @@ a.icon-socials:hover {
 
 .box-we-know {
   position: relative;
-  padding: 149px 0px;
+  padding: 60px 0px;
 }
 .box-we-know .bg-we-know {
   position: absolute;
@@ -8305,7 +8309,7 @@ a.icon-socials:hover {
   top: 0px;
   left: 0px;
   height: 729px;
-  background-color: #191919;
+  background-color: #0a2245;
   background-image: url(../imgs/page/services/bg-we-know.png);
   background-position: right top;
   background-repeat: no-repeat;

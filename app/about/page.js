@@ -23,7 +23,7 @@ export default function About() {
                 <div className="col-lg-6">
                   <div className="padding-left-auto">
                     <Link className="btn btn-tag-black" href="#">
-                    <span className="gradient-text">About Us</span>
+                      <span className="gradient-text">About Us</span>
                     </Link>
                     <h2 className="display-2 mt-15 mb-25">
                       Empowering Modern Education
