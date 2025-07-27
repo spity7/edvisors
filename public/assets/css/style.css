@@ -1337,10 +1337,11 @@ body {
 }
 .btn.btn-brand-4-medium {
   padding: 14px 25px;
-  background: linear-gradient(135deg,#e74c3c, #3ca9c2);
+  background: linear-gradient(135deg,#3ca9c2, #b5f1ff);
   border-radius: 8px;
-  color: #fff;
-  font-size: 18px;
+  border: 1px solid rgb(255, 255, 255);
+  color: #000;
+  font-size: 20px;
   line-height: 22px;
   font-weight: 600;
   font-family: var(--tg-body-font-family);
@@ -1348,7 +1349,7 @@ body {
   align-items: center;
 }
 .btn.btn-brand-4-medium svg {
-  fill: #ffffff;
+  fill: #000;
   margin-left: 5px;
 }
 .btn.btn-brand-4-medium:hover {
