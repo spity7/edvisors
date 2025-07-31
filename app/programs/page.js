@@ -176,7 +176,7 @@ export default function Service() {
                     <div className="card-image">
                       <Link href="esl-english-language">
                         <img
-                          src="/assets/imgs/page/homepage6/esl-alternative-cirriculum-small-scale-logo-1_ver_1-removebg-preview.png"
+                          src="/assets/imgs/page/homepage6/language.png"
                           alt="Nivia"
                         />
                       </Link>

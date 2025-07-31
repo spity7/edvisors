@@ -121,10 +121,11 @@ export default function About() {
                           </span>
                         </div>
                         <span className="text-lg d-inline-block">
-                          Join hundreds of educators using
+                          Join hundreds of educators and institutions
                           <br className="d-none d-md-block" />
-                          the Edvisors platform to transform digital learning
-                          experiences.
+                          partnering with Edvisors to enhance their programs and
+                          empower students with the skills needed for
+                          tomorrow’s world.
                         </span>
                       </div>
                     </div>

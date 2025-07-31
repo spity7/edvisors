@@ -105,7 +105,7 @@ export default function Section4() {
                   <div className="card-image">
                     <img
                       alt="Nivia"
-                      src="/assets/imgs/page/homepage6/esl-alternative-cirriculum-small-scale-logo-1_ver_1-removebg-preview.png"
+                      src="/assets/imgs/page/homepage6/language.png"
                     />
                   </div>
                   <div className="card-info">

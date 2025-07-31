@@ -83,7 +83,7 @@ export default function Section6() {
             <div className="col-lg-6 text-center">
               <div className="box-main-img-feature">
                 <img
-                  src="/assets/imgs/page/homepage6/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014.jpg"
+                  src="/assets/imgs/page/homepage6/front-view-stacked-books-graduation-cap-ladders-education-day_23-2149241014-removebg-preview.png"
                   alt="Nivia"
                   style={{
                     borderRadius: "20px",
